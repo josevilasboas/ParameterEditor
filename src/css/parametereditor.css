@@ -1,0 +1,34 @@
+.parametereditor-container .tab-content {
+	margin-top: 10px;
+	border: 1px solid grey;
+}
+.parametereditor-fancytree {
+	height:100%;
+}
+
+.parametereditor-fancytree ul.fancytree-container {
+	height:100%;
+}
+
+.parametereditor-fancytree .edit-tree-node {
+	min-width: 400px;
+	overflow: hidden;
+	/*background: white;*/
+}
+
+.parametereditor-fancytree input.edit-tree-node-input {
+	width: 90%;
+	padding: 3px 4px 2px;
+	height: 26px;
+}
+
+.parametereditor-fancytreespan .edit-fancytree-title {
+	height: 100% !important;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.parametereditor-fancytree .bootstrap-datetimepicker-widget ul {
+	padding-left: 0;
+}
+

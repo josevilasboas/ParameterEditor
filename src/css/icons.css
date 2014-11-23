@@ -1,0 +1,5005 @@
+[class^="wedo-icon-"],
+[class*=" wedo-icon-"] {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    *margin-right: .3em;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url("../images/icons.png");
+    background-position: 14px 14px;
+    background-repeat: no-repeat;
+}
+
+[class^="wedo-icon-"]:last-child,
+[class*=" wedo-icon-"]:last-child {
+    *margin-left: 0;
+}
+
+.wedo-icon-white,
+.main-nav>.active>a>[class^="wedo-icon-"],
+.main-nav>.active>a>[class*=" wedo-icon-"],
+.btn-group .dropdown-menu>li>a:hover>[class^="wedo-icon-"],
+.btn-group .dropdown-menu>li>a:hover>[class*=" wedo-icon-"],
+.btn-group .dropdown-menu>.active>a>[class^="wedo-icon-"],
+.btn-group .dropdown-menu>.active>a>[class*=" wedo-icon-"] {
+    background-image: url("../images/icons-white.png");
+}
+
+.wedo-icon-grey {
+    background-image: url("../images/icons-grey.png");
+}
+
+.nav-list .active > a > i, .nav-list .active > a:hover > i, .nav-list li > a:hover > i {
+    background-image: url("../images/icons-white.png");
+}
+
+.wedo-icon-nameplate-alt {
+    background-position: -0px -0px;
+}
+
+.wedo-icon-nameplate {
+    background-position: -28px -0px;
+}
+
+.wedo-icon-home {
+    background-position: -56px -0px;
+}
+
+.wedo-icon-users-add {
+    background-position: -84px -0px;
+}
+
+.wedo-icon-users {
+    background-position: -112px -0px;
+}
+
+.wedo-icon-group {
+    background-position: -140px -0px;
+}
+
+.wedo-icon-user-male {
+    background-position: -168px -0px;
+}
+
+.wedo-icon-user-female {
+    background-position: -196px -0px;
+}
+
+.wedo-icon-user-add {
+    background-position: -224px -0px;
+}
+
+.wedo-icon-user-remove {
+    background-position: -252px -0px;
+}
+
+.wedo-icon-picture {
+    background-position: -280px -0px;
+}
+
+.wedo-icon-film {
+    background-position: -308px -0px;
+}
+
+.wedo-icon-print {
+    background-position: -336px -0px;
+}
+
+.wedo-icon-cogwheels {
+    background-position: -0px -28px;
+}
+
+.wedo-icon-cogwheel {
+    background-position: -28px -28px;
+}
+
+.wedo-icon-settings {
+    background-position: -56px -28px;
+}
+
+.wedo-icon-cut {
+    background-position: -84px -28px;
+}
+
+.wedo-icon-pencil {
+    background-position: -112px -28px;
+}
+
+.wedo-icon-keys {
+    background-position: -140px -28px;
+}
+
+.wedo-icon-trash {
+    background-position: -168px -28px;
+}
+
+.wedo-icon-link {
+    background-position: -196px -28px;
+}
+
+.wedo-icon-tag {
+    background-position: -224px -28px;
+}
+
+.wedo-icon-tags {
+    background-position: -252px -28px;
+}
+
+.wedo-icon-search {
+    background-position: -280px -28px;
+}
+
+.wedo-icon-zoom-in {
+    background-position: -308px -28px;
+}
+
+.wedo-icon-zoom-out {
+    background-position: -336px -28px;
+}
+
+.wedo-icon-calculator {
+    background-position: -0px -56px;
+}
+
+.wedo-icon-clipboard {
+    background-position: -28px -56px;
+}
+
+.wedo-icon-calendar {
+    background-position: -56px -56px;
+}
+
+.wedo-icon-calendar-alt {
+    background-position: -84px -56px;
+}
+
+.wedo-icon-table {
+    background-position: -112px -56px;
+}
+
+.wedo-icon-book-open {
+    background-position: -140px -56px;
+}
+
+.wedo-icon-book {
+    background-position: -168px -56px;
+}
+
+.wedo-icon-book-check {
+    background-position: -196px -56px;
+}
+
+.wedo-icon-book-address {
+    background-position: -224px -56px;
+}
+
+.wedo-icon-stack {
+    background-position: -252px -56px;
+}
+
+.wedo-icon-stack-alt {
+    background-position: -280px -56px;
+}
+
+.wedo-icon-star {
+    background-position: -308px -56px;
+}
+
+.wedo-icon-plain {
+    background-position: -336px -56px;
+}
+
+.wedo-icon-import {
+    background-position: -0px -84px;
+}
+
+.wedo-icon-export {
+    background-position: -28px -84px;
+}
+
+.wedo-icon-file {
+    background-position: -56px -84px;
+}
+
+.wedo-icon-files {
+    background-position: -84px -84px;
+}
+
+.wedo-icon-coins {
+    background-position: -112px -84px;
+}
+
+.wedo-icon-visible {
+    background-position: -140px -84px;
+}
+
+.wedo-icon-invisible {
+    background-position: -168px -84px;
+}
+
+.wedo-icon-sort {
+    background-position: -196px -84px;
+}
+
+.wedo-icon-sort-desc {
+    background-position: -224px -84px;
+}
+
+.wedo-icon-sort-asc {
+    background-position: -252px -84px;
+}
+
+.wedo-icon-locked {
+    background-position: -280px -84px;
+}
+
+.wedo-icon-unlocked {
+    background-position: -308px -84px;
+}
+
+.wedo-icon-flag {
+    background-position: -336px -84px;
+}
+
+.wedo-icon-table-alt {
+    background-position: -0px -112px;
+}
+
+.wedo-icon-line-chart {
+    background-position: -28px -112px;
+}
+
+.wedo-icon-bar-chart {
+    background-position: -56px -112px;
+}
+
+.wedo-icon-pie-chart {
+    background-position: -84px -112px;
+}
+
+.wedo-icon-ekg {
+    background-position: -112px -112px;
+}
+
+.wedo-icon-alarm {
+    background-position: -140px -112px;
+}
+
+.wedo-icon-clock {
+    background-position: -168px -112px;
+}
+
+.wedo-icon-crono {
+    background-position: -196px -112px;
+}
+
+.wedo-icon-clock-alt {
+    background-position: -224px -112px;
+}
+
+.wedo-icon-net {
+    background-position: -252px -112px;
+}
+
+.wedo-icon-clip {
+    background-position: -280px -112px;
+}
+
+.wedo-icon-off {
+    background-position: -308px -112px;
+}
+
+.wedo-icon-bulb {
+    background-position: -336px -112px;
+}
+
+.wedo-icon-wifi {
+    background-position: -0px -140px;
+}
+
+.wedo-icon-warning {
+    background-position: -28px -140px;
+}
+
+.wedo-icon-signal-bars {
+    background-position: -56px -140px;
+}
+
+.wedo-icon-globe {
+    background-position: -84px -140px;
+}
+
+.wedo-icon-browser {
+    background-position: -112px -140px;
+}
+
+.wedo-icon-compass {
+    background-position: -140px -140px;
+}
+
+.wedo-icon-retweet {
+    background-position: -168px -140px;
+}
+
+.wedo-icon-refresh {
+    background-position: -196px -140px;
+}
+
+.wedo-icon-rotation-lock {
+    background-position: -224px -140px;
+}
+
+.wedo-icon-random {
+    background-position: -252px -140px;
+}
+
+.wedo-icon-heat {
+    background-position: -280px -140px;
+}
+
+.wedo-icon-repeat {
+    background-position: -308px -140px;
+}
+
+.wedo-icon-repeat-alt {
+    background-position: -336px -140px;
+}
+
+.wedo-icon-display {
+    background-position: -0px -168px;
+}
+
+.wedo-icon-text-font {
+    background-position: -28px -168px;
+}
+
+.wedo-icon-text-italic {
+    background-position: -56px -168px;
+}
+
+.wedo-icon-text-bold {
+    background-position: -84px -168px;
+}
+
+.wedo-icon-text-underline {
+    background-position: -112px -168px;
+}
+
+.wedo-icon-text-strike {
+    background-position: -140px -168px;
+}
+
+.wedo-icon-text-height {
+    background-position: -168px -168px;
+}
+
+.wedo-icon-text-width {
+    background-position: -196px -168px;
+}
+
+.wedo-icon-text-resize {
+    background-position: -224px -168px;
+}
+
+.wedo-icon-left-indent {
+    background-position: -252px -168px;
+}
+
+.wedo-icon-right-indent {
+    background-position: -280px -168px;
+}
+
+.wedo-icon-embed {
+    background-position: -308px -168px;
+}
+
+.wedo-icon-embed-close {
+    background-position: -336px -168px;
+}
+
+.wedo-icon-align-left {
+    background-position: -0px -196px;
+}
+
+.wedo-icon-align-center {
+    background-position: -28px -196px;
+}
+
+.wedo-icon-align-right {
+    background-position: -56px -196px;
+}
+
+.wedo-icon-justify {
+    background-position: -84px -196px;
+}
+
+.wedo-icon-list {
+    background-position: -112px -196px;
+}
+
+.wedo-icon-text-smaller {
+    background-position: -140px -196px;
+}
+
+.wedo-icon-text-bigger {
+    background-position: -168px -196px;
+}
+
+.wedo-icon-adjust {
+    background-position: -196px -196px;
+}
+
+.wedo-icon-message {
+    background-position: -224px -196px;
+}
+
+.wedo-icon-message-full {
+    background-position: -252px -196px;
+}
+
+.wedo-icon-message-empty {
+    background-position: -280px -196px;
+}
+
+.wedo-icon-message-in {
+    background-position: -308px -196px;
+}
+
+.wedo-icon-message-out {
+    background-position: -336px -196px;
+}
+
+.wedo-icon-message-plus {
+    background-position: -0px -224px;
+}
+
+.wedo-icon-message-minus {
+    background-position: -28px -224px;
+}
+
+.wedo-icon-message-ban {
+    background-position: -56px -224px;
+}
+
+.wedo-icon-message-flag {
+    background-position: -84px -224px;
+}
+
+.wedo-icon-message-lock {
+    background-position: -112px -224px;
+}
+
+.wedo-icon-message-new {
+    background-position: -140px -224px;
+}
+
+.wedo-icon-inbox {
+    background-position: -168px -224px;
+}
+
+.wedo-icon-inbox-plus {
+    background-position: -196px -224px;
+}
+
+.wedo-icon-inbox-minus {
+    background-position: -224px -224px;
+}
+
+.wedo-icon-inbox-lock {
+    background-position: -252px -224px;
+}
+
+.wedo-icon-inbox-in {
+    background-position: -280px -224px;
+}
+
+.wedo-icon-inbox-out {
+    background-position: -308px -224px;
+}
+
+.wedo-icon-phone {
+    background-position: -336px -224px;
+}
+
+.wedo-icon-screen-lock {
+    background-position: -0px -252px;
+}
+
+.wedo-icon-screen-new {
+    background-position: -28px -252px;
+}
+
+.wedo-icon-screen-ellipsis {
+    background-position: -56px -252px;
+}
+
+.wedo-icon-folder {
+    background-position: -84px -252px;
+}
+
+.wedo-icon-folder-open {
+    background-position: -112px -252px;
+}
+
+.wedo-icon-folder-plus {
+    background-position: -140px -252px;
+}
+
+.wedo-icon-folder-minus {
+    background-position: -168px -252px;
+}
+
+.wedo-icon-folder-lock {
+    background-position: -196px -252px;
+}
+
+.wedo-icon-folder-flag {
+    background-position: -224px -252px;
+}
+
+.wedo-icon-folder-new {
+    background-position: -252px -252px;
+}
+
+.wedo-icon-zip {
+    background-position: -280px -252px;
+}
+
+.wedo-icon-download {
+    background-position: -308px -252px;
+}
+
+.wedo-icon-ellipsis {
+    background-position: -336px -252px;
+}
+
+.wedo-icon-step-backward {
+    background-position: -0px -280px;
+}
+
+.wedo-icon-fast-backward {
+    background-position: -28px -280px;
+}
+
+.wedo-icon-rewind {
+    background-position: -56px -280px;
+}
+
+.wedo-icon-play {
+    background-position: -84px -280px;
+}
+
+.wedo-icon-forward {
+    background-position: -112px -280px;
+}
+
+.wedo-icon-fast-forward {
+    background-position: -140px -280px;
+}
+
+.wedo-icon-step-forward {
+    background-position: -168px -280px;
+}
+
+.wedo-icon-plus {
+    background-position: -196px -280px;
+}
+
+.wedo-icon-minus {
+    background-position: -224px -280px;
+}
+
+.wedo-icon-remove {
+    background-position: -252px -280px;
+}
+
+.wedo-icon-check {
+    background-position: -280px -280px;
+}
+
+.wedo-icon-question {
+    background-position: -308px -280px;
+}
+
+.wedo-icon-info {
+    background-position: -336px -280px;
+}
+
+.wedo-icon-exclamation {
+    background-position: -0px -308px;
+}
+
+.wedo-icon-remove-sign {
+    background-position: -28px -308px;
+}
+
+.wedo-icon-check-sign {
+    background-position: -56px -308px;
+}
+
+.wedo-icon-block-sign {
+    background-position: -84px -308px;
+}
+
+.wedo-icon-play-sign {
+    background-position: -112px -308px;
+}
+
+.wedo-icon-down-sign {
+    background-position: -140px -308px;
+}
+
+.wedo-icon-up-sign {
+    background-position: -168px -308px;
+}
+
+.wedo-icon-left-arrow-sign {
+    background-position: -196px -308px;
+}
+
+.wedo-icon-right-arrow-sign {
+    background-position: -224px -308px;
+}
+
+.wedo-icon-up-arrow-sign {
+    background-position: -252px -308px;
+}
+
+.wedo-icon-down-arrow-sign {
+    background-position: -280px -308px;
+}
+
+.wedo-icon-minimize {
+    background-position: -308px -308px;
+}
+
+.wedo-icon-maximize {
+    background-position: -336px -308px;
+}
+
+.wedo-icon-left-arrow {
+    background-position: -0px -336px;
+}
+
+.wedo-icon-right-arrow {
+    background-position: -28px -336px;
+}
+
+.wedo-icon-up-arrow {
+    background-position: -56px -336px;
+}
+
+.wedo-icon-down-arrow {
+    background-position: -84px -336px;
+}
+
+.wedo-icon-fullscreen {
+    background-position: -112px -336px;
+}
+
+.wedo-icon-move-cursor {
+    background-position: -140px -336px;
+}
+
+.wedo-icon-undo {
+    background-position: -168px -336px;
+}
+
+.wedo-icon-redo {
+    background-position: -196px -336px;
+}
+
+.wedo-icon-right-arrow-thin {
+    background-position: -224px -336px;
+}
+
+.wedo-icon-left-arrow-thin {
+    background-position: -252px -336px;
+}
+
+.wedo-icon-ok-bold {
+    background-position: -280px -336px;
+}
+
+.wedo-icon-remove-bold {
+    background-position: -308px -336px;
+}
+
+.wedo-icon-retweet-vertical {
+    background-position: -336px -336px;
+}
+
+.wedo-icon-thumbs-ok {
+    background-position: -0px -364px;
+}
+
+.wedo-icon-thumbs-not-ok {
+    background-position: -28px -364px;
+}
+
+.wedo-icon-thumbs-right {
+    background-position: -56px -364px;
+}
+
+.wedo-icon-thumbs-left {
+    background-position: -84px -364px;
+}
+
+.wedo-icon-thumbs-up {
+    background-position: -112px -364px;
+}
+
+.wedo-icon-thumbs-down {
+    background-position: -140px -364px;
+}
+
+.wedo-icon-big-thumbnails {
+    background-position: -168px -364px;
+}
+
+.wedo-icon-thumbnails {
+    background-position: -196px -364px;
+}
+
+.wedo-icon-thumbnails-lines {
+    background-position: -224px -364px;
+}
+
+.wedo-icon-lines {
+    background-position: -252px -364px;
+}
+
+.wedo-icon-euro {
+    background-position: -280px -364px;
+}
+
+.wedo-icon-dollar {
+    background-position: -308px -364px;
+}
+
+.wedo-icon-pound {
+    background-position: -336px -364px;
+}
+
+.wedo-icon-filter {
+    background-position: -0px -392px;
+}
+
+.wedo-icon-share {
+    background-position: -28px -392px;
+}
+
+.wedo-icon-marker {
+    background-position: -56px -392px;
+}
+
+.wedo-icon-pin {
+    background-position: -84px -392px;
+}
+
+.wedo-icon-flag-alt {
+    background-position: -112px -392px;
+}
+
+.wedo-icon-keyboard {
+    background-position: -140px -392px;
+}
+
+.wedo-icon-conversation {
+    background-position: -168px -392px;
+}
+
+.wedo-icon-chat {
+    background-position: -196px -392px;
+}
+
+.wedo-icon-chat-alt {
+    background-position: -224px -392px;
+}
+
+.wedo-icon-new {
+    background-position: -252px -392px;
+}
+
+.wedo-icon-divide {
+    background-position: -280px -392px;
+}
+
+.wedo-icon-bell {
+    background-position: -308px -392px;
+}
+
+.wedo-icon-badge {
+    background-position: -336px -392px;
+}
+
+.wedo-icon-qrcode {
+    background-position: -0px -420px;
+}
+
+.wedo-icon-gauge {
+    background-position: -28px -420px;
+}
+
+.wedo-icon-new-window {
+    background-position: -56px -420px;
+}
+
+.wedo-icon-edit-window {
+    background-position: -84px -420px;
+}
+
+.wedo-icon-check-window {
+    background-position: -112px -420px;
+}
+
+.wedo-icon-maximize-window {
+    background-position: -140px -420px;
+}
+
+.wedo-icon-minimize-window {
+    background-position: -168px -420px;
+}
+
+.wedo-icon-tree-plus-large {
+    background-position: -196px -420px;
+}
+
+.wedo-icon-tree-minus-large {
+    background-position: -224px -420px;
+}
+
+.wedo-icon-tree-new {
+    background-position: -252px -420px;
+}
+
+.wedo-icon-tree-new-expression {
+    background-position: -280px -420px;
+}
+
+.wedo-icon-tree-plus-stack {
+    background-position: -308px -420px;
+}
+
+.wedo-icon-tree-minus-stack {
+    background-position: -336px -420px;
+}
+
+.wedo-icon-tree-stack {
+    background-position: -0px -448px;
+}
+
+.wedo-icon-tree-merge {
+    background-position: -28px -448px;
+}
+
+.wedo-icon-tree-move-all {
+    background-position: -56px -448px;
+}
+
+.wedo-icon-tree-expression-edit {
+    background-position: -84px -448px;
+}
+
+.wedo-icon-tree-functions {
+    background-position: -112px -448px;
+}
+
+.wedo-icon-tree-items {
+    background-position: -140px -448px;
+}
+
+.wedo-icon-tree-fields {
+    background-position: -168px -448px;
+}
+
+.wedo-icon-tree-arithmetic {
+    background-position: -196px -448px;
+}
+
+.wedo-icon-tree-calendar {
+    background-position: -224px -448px;
+}
+
+.wedo-icon-tree-function {
+    background-position: -252px -448px;
+}
+
+.wedo-icon-tree-text {
+    background-position: -280px -448px;
+}
+
+.wedo-icon-tree-function-alt {
+    background-position: -308px -448px;
+}
+
+.wedo-icon-tree-text-alt {
+    background-position: -336px -448px;
+}
+
+.wedo-icon-expression-refresh {
+    background-position: -0px -476px;
+}
+
+.wedo-icon-expression-boxes {
+    background-position: -28px -476px;
+}
+
+.wedo-icon-expression-charts {
+    background-position: -56px -476px;
+}
+
+.wedo-icon-expression-workflow {
+    background-position: -84px -476px;
+}
+
+.wedo-icon-expression-items {
+    background-position: -112px -476px;
+}
+
+.wedo-icon-expression-sliders {
+    background-position: -140px -476px;
+}
+
+.wedo-icon-expression-bars {
+    background-position: -168px -476px;
+}
+
+.wedo-icon-expression-rulers {
+    background-position: -196px -476px;
+}
+
+.wedo-icon-expression-statistics {
+    background-position: -224px -476px;
+}
+
+.wedo-icon-expression-board {
+    background-position: -252px -476px;
+}
+
+.wedo-icon-expression-empty {
+    background-position: -280px -476px;
+}
+
+.wedo-icon-expression-connect {
+    background-position: -308px -476px;
+}
+
+.wedo-icon-expression-numbers {
+    background-position: -336px -476px;
+}
+
+.wedo-icon-expression-window {
+    background-position: -0px -504px;
+}
+
+.wedo-icon-expression-window-plus {
+    background-position: -28px -504px;
+}
+
+.wedo-icon-expression-window-remove {
+    background-position: -56px -504px;
+}
+
+.wedo-icon-expression-window-warning {
+    background-position: -84px -504px;
+}
+
+.wedo-icon-expression-window-play {
+    background-position: -112px -504px;
+}
+
+.wedo-icon-expression-window-elipsis {
+    background-position: -140px -504px;
+}
+
+.wedo-icon-expression-window-block {
+    background-position: -168px -504px;
+}
+
+.wedo-icon-expression-window-new {
+    background-position: -196px -504px;
+}
+
+.wedo-icon-expression-window-edit {
+    background-position: -224px -504px;
+}
+
+.wedo-icon-expression-life {
+    background-position: -252px -504px;
+}
+
+.wedo-icon-expression-valid-export {
+    background-position: -280px -504px;
+}
+
+.wedo-icon-expression-new-export {
+    background-position: -308px -504px;
+}
+
+.wedo-icon-expression-law {
+    background-position: -336px -504px;
+}
+
+.wedo-icon-expression-calendar {
+    background-position: -0px -532px;
+}
+
+.wedo-icon-expression-happy {
+    background-position: -28px -532px;
+}
+
+.wedo-icon-expression-down {
+    background-position: -56px -532px;
+}
+
+.wedo-icon-expression-up {
+    background-position: -84px -532px;
+}
+
+.wedo-icon-expression-right-up {
+    background-position: -112px -532px;
+}
+
+.wedo-icon-expression-right-down {
+    background-position: -140px -532px;
+}
+
+.wedo-icon-expression-plus {
+    background-position: -168px -532px;
+}
+
+.wedo-icon-expression-minus {
+    background-position: -196px -532px;
+}
+
+.wedo-icon-expression-source-plus {
+    background-position: -224px -532px;
+}
+
+.wedo-icon-expression-source-minus {
+    background-position: -252px -532px;
+}
+
+.wedo-icon-expression-source-lock {
+    background-position: -280px -532px;
+}
+
+.wedo-icon-expression-source-block {
+    background-position: -308px -532px;
+}
+
+.wedo-icon-expression-shield {
+    background-position: -336px -532px;
+}
+
+.wedo-icon-move-right {
+    background-position: -0px -560px;
+}
+
+.wedo-icon-move-left {
+    background-position: -28px -560px;
+}
+
+.wedo-icon-move-all-right {
+    background-position: -56px -560px;
+}
+
+.wedo-icon-move-all-left {
+    background-position: -84px -560px;
+}
+
+.wedo-icon-datalist {
+    background-position: -112px -560px;
+}
+
+.wedo-icon-tree-plus {
+    background-position: -140px -560px;
+}
+
+.wedo-icon-tree-minus {
+    background-position: -168px -560px;
+}
+
+.wedo-icon-expression-left-up {
+    background-position: -196px -560px;
+}
+
+.wedo-icon-expression-left-down {
+    background-position: -224px -560px;
+}
+
+.wedo-icon-left-up-arrow {
+    background-position: -252px -560px;
+}
+
+.wedo-icon-left-down-arrow {
+    background-position: -280px -560px;
+}
+
+.wedo-icon-right-up-arrow {
+    background-position: -308px -560px;
+}
+
+.wedo-icon-right-down-arrow {
+    background-position: -336px -560px;
+}
+
+.wedo-icon-kpi-right-down {
+    background-position: -0px -588px;
+}
+
+.wedo-icon-kpi-left-down {
+    background-position: -28px -588px;
+}
+
+.wedo-icon-kpi-right-up {
+    background-position: -56px -588px;
+}
+
+.wedo-icon-kpi-left-up {
+    background-position: -84px -588px;
+}
+
+.wedo-icon-look-and-feel {
+    background-position: -112px -588px;
+}
+
+.wedo-icon-save {
+    background-position: -140px -588px;
+}
+
+.wedo-icon-widget-configuration {
+    background-position: -168px -588px;
+}
+
+.wedo-icon-behavior-mapping {
+    background-position: -196px -588px;
+}
+
+.wedo-icon-layout-management {
+    background-position: -224px -588px;
+}
+
+.wedo-icon-new-section-template {
+    background-position: -252px -588px;
+}
+
+.wedo-icon-section-navigation-widget {
+    background-position: -280px -588px;
+}
+
+.wedo-icon-title-bar-widget {
+    background-position: -308px -588px;
+}
+
+.wedo-icon-restrictions-widget {
+    background-position: -336px -588px;
+}
+
+.wedo-icon-filter-bar-widget {
+    background-position: -0px -616px;
+}
+
+.wedo-icon-history {
+    background-position: -28px -616px;
+}
+
+.wedo-icon-properties {
+    background-position: -56px -616px;
+}
+
+.wedo-icon-initialization {
+    background-position: -84px -616px;
+}
+
+.wedo-icon-actions-management {
+    background-position: -112px -616px;
+}
+
+.wedo-icon-actions-control {
+    background-position: -140px -616px;
+}
+
+.wedo-icon-actions-monitoring {
+    background-position: -168px -616px;
+}
+
+.wedo-icon-actions-auditing {
+    background-position: -196px -616px;
+}
+
+.wedo-icon-1d-bar-code {
+    background-position: -224px -616px;
+}
+
+.wedo-icon-modal-manager {
+    background-position: -252px -616px;
+}
+
+.wedo-icon-blacklist-manager {
+    background-position: -280px -616px;
+}
+
+.wedo-icon-multiple-activation {
+    background-position: -308px -616px;
+}
+
+.wedo-icon-vat-validation {
+    background-position: -336px -616px;
+}
+
+.wedo-icon-entity-exemption {
+    background-position: -0px -644px;
+}
+
+.wedo-icon-entity-exemption-manager {
+    background-position: -28px -644px;
+}
+
+.wedo-icon-entity-exemption-rule-audit {
+    background-position: -56px -644px;
+}
+
+.wedo-icon-global-entity-exemption-fields {
+    background-position: -84px -644px;
+}
+
+.wedo-icon-scoring-management {
+    background-position: -112px -644px;
+}
+
+.wedo-icon-scoring-normalizer {
+    background-position: -140px -644px;
+}
+
+.wedo-icon-hotlist {
+    background-position: -168px -644px;
+}
+
+.wedo-icon-hotlist-configure {
+    background-position: -196px -644px;
+}
+
+.wedo-icon-hotlist-approve {
+    background-position: -224px -644px;
+}
+
+.wedo-icon-auditing {
+    background-position: -252px -644px;
+}
+
+.wedo-icon-auditing-rules {
+    background-position: -280px -644px;
+}
+
+.wedo-icon-profile-management {
+    background-position: -308px -644px;
+}
+
+.wedo-icon-over-threshold {
+    background-position: -336px -644px;
+}
+
+.wedo-icon-link-analysis-export {
+    background-position: -0px -672px;
+}
+
+.wedo-icon-rule-activate {
+    background-position: -28px -672px;
+}
+
+.wedo-icon-rule-deactivate {
+    background-position: -56px -672px;
+}
+
+.wedo-icon-rule-approve {
+    background-position: -84px -672px;
+}
+
+.wedo-icon-rule-reject {
+    background-position: -112px -672px;
+}
+
+.wedo-icon-rule-offline {
+    background-position: -140px -672px;
+}
+
+.wedo-icon-rule-submit {
+    background-position: -168px -672px;
+}
+
+.wedo-icon-rule-unsubmit {
+    background-position: -196px -672px;
+}
+
+.wedo-icon-rule-add {
+    background-position: -224px -672px;
+}
+
+.wedo-icon-rule-export-list {
+    background-position: -252px -672px;
+}
+
+.wedo-icon-rule-view {
+    background-position: -280px -672px;
+}
+
+.wedo-icon-rule-edit {
+    background-position: -308px -672px;
+}
+
+.wedo-icon-rule-history {
+    background-position: -336px -672px;
+}
+
+.wedo-icon-rule-new {
+    background-position: -0px -700px;
+}
+
+.wedo-icon-rule-action-log {
+    background-position: -28px -700px;
+}
+
+.wedo-icon-rule-executions {
+    background-position: -56px -700px;
+}
+
+.wedo-icon-fraud-cases-type {
+    background-position: -84px -700px;
+}
+
+.wedo-icon-new-cases-report {
+    background-position: -112px -700px;
+}
+
+.wedo-icon-idle-cases-report {
+    background-position: -140px -700px;
+}
+
+.wedo-icon-resolved-cases-type {
+    background-position: -168px -700px;
+}
+
+.wedo-icon-resolved-cases-correlation {
+    background-position: -196px -700px;
+}
+
+.wedo-icon-solved-cases-detailed {
+    background-position: -224px -700px;
+}
+
+.wedo-icon-alarm-type-statistics {
+    background-position: -252px -700px;
+}
+
+.wedo-icon-unused-rules {
+    background-position: -280px -700px;
+}
+
+.wedo-icon-group-analysis {
+    background-position: -308px -700px;
+}
+
+.wedo-icon-average-gap-time {
+    background-position: -336px -700px;
+}
+
+.wedo-icon-average-detection-time {
+    background-position: -0px -728px;
+}
+
+.wedo-icon-detection-source {
+    background-position: -28px -728px;
+}
+
+.wedo-icon-archived-fraudulent-cases {
+    background-position: -56px -728px;
+}
+
+.wedo-icon-fraud-cases-correlation {
+    background-position: -84px -728px;
+}
+
+.wedo-icon-fraud-cases-detection {
+    background-position: -112px -728px;
+}
+
+.wedo-icon-fraud-alerts-detection {
+    background-position: -140px -728px;
+}
+
+.wedo-icon-false-positive-cases {
+    background-position: -168px -728px;
+}
+
+.wedo-icon-closed-cases-type {
+    background-position: -196px -728px;
+}
+
+.wedo-icon-detection-usage {
+    background-position: -224px -728px;
+}
+
+.wedo-icon-correlation-usage {
+    background-position: -252px -728px;
+}
+
+.wedo-icon-cases-resolution {
+    background-position: -280px -728px;
+}
+
+.wedo-icon-unused-correlation {
+    background-position: -308px -728px;
+}
+
+.wedo-icon-unused-detection {
+    background-position: -336px -728px;
+}
+
+.wedo-icon-fraud-trend {
+    background-position: -0px -756px;
+}
+
+.wedo-icon-connections-product {
+    background-position: -28px -756px;
+}
+
+.wedo-icon-detection-time {
+    background-position: -56px -756px;
+}
+
+.wedo-icon-speed-resolving {
+    background-position: -84px -756px;
+}
+
+.wedo-icon-rule-delete {
+    background-position: -112px -756px;
+}
+
+.wedo-icon-excel-export {
+    background-position: -140px -756px;
+}
+
+.wedo-icon-zoom-reset {
+    background-position: -168px -756px;
+}
+
+.wedo-icon-disable-filter {
+    background-position: -196px -756px;
+}
+
+.wedo-icon-chart-exclamation {
+    background-position: -224px -756px;
+}
+
+.wedo-icon-user-preferences {
+    background-position: -252px -756px;
+}
+
+.wedo-icon-area-chart {
+    background-position: -280px -756px;
+}
+
+.wedo-icon-scatter-chart {
+    background-position: -308px -756px;
+}
+
+.wedo-icon-spline-chart {
+    background-position: -336px -756px;
+}
+
+.wedo-icon-area-spline-chart {
+    background-position: -0px -784px;
+}
+
+.wedo-icon-number-sign {
+    background-position: -28px -784px;
+}
+
+.wedo-icon-summatory {
+    background-position: -56px -784px;
+}
+
+.wedo-icon-average {
+    background-position: -84px -784px;
+}
+
+.wedo-icon-maxium {
+    background-position: -112px -784px;
+}
+
+.wedo-icon-minium {
+    background-position: -140px -784px;
+}
+
+.wedo-icon-list-aggregation {
+    background-position: -168px -784px;
+}
+
+.wedo-icon-aggregation {
+    background-position: -196px -784px;
+}
+
+.wedo-icon-text {
+    background-position: -224px -784px;
+}
+
+.wedo-icon-numeric {
+    background-position: -252px -784px;
+}
+
+.wedo-icon-boolean {
+    background-position: -280px -784px;
+}
+
+.wedo-icon-over-threshold-entity {
+    background-position: -308px -784px;
+}
+
+.wedo-icon-detection-engines-scoring {
+    background-position: -336px -784px;
+}
+
+.wedo-icon-detection-engines-scoring-audit {
+    background-position: -0px -812px;
+}
+
+.wedo-icon-correlation-engines-scoring {
+    background-position: -28px -812px;
+}
+
+.wedo-icon-correlation-engines-scoring-audit {
+    background-position: -56px -812px;
+}
+
+.wedo-icon-score-models {
+    background-position: -84px -812px;
+}
+
+.wedo-icon-score-models-audit {
+    background-position: -112px -812px;
+}
+
+.wedo-icon-gadget-user-preferences {
+    background-position: -140px -812px;
+}
+
+.wedo-icon-align-top {
+    background-position: -168px -812px;
+}
+
+.wedo-icon-align-middle {
+    background-position: -196px -812px;
+}
+
+.wedo-icon-align-bottom {
+    background-position: -224px -812px;
+}
+
+.wedo-icon-tracing {
+    background-position: -252px -812px;
+}
+
+.wedo-icon-check-out {
+    background-position: -280px -812px;
+}
+
+.wedo-icon-hierarchical {
+    background-position: -308px -812px;
+}
+
+.wedo-icon-datasource {
+    background-position: -336px -812px;
+}
+
+.wedo-icon-context {
+    background-position: -0px -840px;
+}
+
+.wedo-icon-entity-group {
+    background-position: -28px -840px;
+}
+
+.wedo-icon-entity {
+    background-position: -56px -840px;
+}
+
+.wedo-icon-logical_field {
+    background-position: -84px -840px;
+}
+
+.wedo-icon-logical_type {
+    background-position: -112px -840px;
+}
+
+.wedo-icon-antenna {
+    background-position: -140px -840px;
+}
+
+.wedo-icon-tree-collapsed {
+    background-position: -168px -840px;
+}
+
+.wedo-icon-tree-expanded {
+    background-position: -196px -840px;
+}
+
+.wedo-icon-home-lock {
+    background-position: -224px -840px;
+}
+
+.wedo-icon-home-lock-two {
+    background-position: -252px -840px;
+}
+
+.wedo-icon-vault {
+    background-position: -280px -840px;
+}
+
+.wedo-icon-vault-two {
+    background-position: -308px -840px;
+}
+
+.wedo-icon-vault-three {
+    background-position: -336px -840px;
+}
+
+.wedo-icon-vault-four {
+    background-position: -0px -868px;
+}
+
+.wedo-icon-vault-five {
+    background-position: -28px -868px;
+}
+
+.wedo-icon-add-filter-restrictions {
+    background-position: -56px -868px;
+}
+
+.wedo-icon-add-filter-white-list {
+    background-position: -84px -868px;
+}
+
+.wedo-icon-add-filter-black-list {
+    background-position: -112px -868px;
+}
+
+.wedo-icon-not {
+    background-position: -140px -868px;
+}
+
+span[class^="wedo-icon-"] .dynatree-icon ,
+span[class*=" wedo-icon-"] .dynatree-icon {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    *margin-right: .3em;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url("../images/wedo-icons.png");
+    background-position: 14px 14px;
+    background-repeat: no-repeat;
+}
+
+span[class^="wedo-icon-"].dynatree-node ,
+span[class*=" wedo-icon-"].dynatree-node {
+    display: inline;
+    width: auto;
+    height: auto;
+    *margin-right: 0px;
+    line-height: 18px;
+    vertical-align: baseline;
+    background-image: none;
+    background-repeat: no-repeat;
+}
+
+span[class^="wedo-icon-"] .dynatree-icon:last-child,
+span[class*=" wedo-icon-"] .dynatree-icon:last-child {
+    *margin-left: 0;
+}
+
+span.wedo-icon-nameplate-alt .dynatree-icon {
+    background-position: -0px -0px;
+}
+
+span.wedo-icon-nameplate .dynatree-icon {
+    background-position: -28px -0px;
+}
+
+span.wedo-icon-home .dynatree-icon {
+    background-position: -56px -0px;
+}
+
+span.wedo-icon-users-add .dynatree-icon {
+    background-position: -84px -0px;
+}
+
+span.wedo-icon-users .dynatree-icon {
+    background-position: -112px -0px;
+}
+
+span.wedo-icon-group .dynatree-icon {
+    background-position: -140px -0px;
+}
+
+span.wedo-icon-user-male .dynatree-icon {
+    background-position: -168px -0px;
+}
+
+span.wedo-icon-user-female .dynatree-icon {
+    background-position: -196px -0px;
+}
+
+span.wedo-icon-user-add .dynatree-icon {
+    background-position: -224px -0px;
+}
+
+span.wedo-icon-user-remove .dynatree-icon {
+    background-position: -252px -0px;
+}
+
+span.wedo-icon-picture .dynatree-icon {
+    background-position: -280px -0px;
+}
+
+span.wedo-icon-film .dynatree-icon {
+    background-position: -308px -0px;
+}
+
+span.wedo-icon-print .dynatree-icon {
+    background-position: -336px -0px;
+}
+
+span.wedo-icon-cogwheels .dynatree-icon {
+    background-position: -0px -28px;
+}
+
+span.wedo-icon-cogwheel .dynatree-icon {
+    background-position: -28px -28px;
+}
+
+span.wedo-icon-settings .dynatree-icon {
+    background-position: -56px -28px;
+}
+
+span.wedo-icon-cut .dynatree-icon {
+    background-position: -84px -28px;
+}
+
+span.wedo-icon-pencil .dynatree-icon {
+    background-position: -112px -28px;
+}
+
+span.wedo-icon-keys .dynatree-icon {
+    background-position: -140px -28px;
+}
+
+span.wedo-icon-trash .dynatree-icon {
+    background-position: -168px -28px;
+}
+
+span.wedo-icon-link .dynatree-icon {
+    background-position: -196px -28px;
+}
+
+span.wedo-icon-tag .dynatree-icon {
+    background-position: -224px -28px;
+}
+
+span.wedo-icon-tags .dynatree-icon {
+    background-position: -252px -28px;
+}
+
+span.wedo-icon-search .dynatree-icon {
+    background-position: -280px -28px;
+}
+
+span.wedo-icon-zoom-in .dynatree-icon {
+    background-position: -308px -28px;
+}
+
+span.wedo-icon-zoom-out .dynatree-icon {
+    background-position: -336px -28px;
+}
+
+span.wedo-icon-calculator .dynatree-icon {
+    background-position: -0px -56px;
+}
+
+span.wedo-icon-clipboard .dynatree-icon {
+    background-position: -28px -56px;
+}
+
+span.wedo-icon-calendar .dynatree-icon {
+    background-position: -56px -56px;
+}
+
+span.wedo-icon-calendar-alt .dynatree-icon {
+    background-position: -84px -56px;
+}
+
+span.wedo-icon-table .dynatree-icon {
+    background-position: -112px -56px;
+}
+
+span.wedo-icon-book-open .dynatree-icon {
+    background-position: -140px -56px;
+}
+
+span.wedo-icon-book .dynatree-icon {
+    background-position: -168px -56px;
+}
+
+span.wedo-icon-book-check .dynatree-icon {
+    background-position: -196px -56px;
+}
+
+span.wedo-icon-book-address .dynatree-icon {
+    background-position: -224px -56px;
+}
+
+span.wedo-icon-stack .dynatree-icon {
+    background-position: -252px -56px;
+}
+
+span.wedo-icon-stack-alt .dynatree-icon {
+    background-position: -280px -56px;
+}
+
+span.wedo-icon-star .dynatree-icon {
+    background-position: -308px -56px;
+}
+
+span.wedo-icon-plain .dynatree-icon {
+    background-position: -336px -56px;
+}
+
+span.wedo-icon-import .dynatree-icon {
+    background-position: -0px -84px;
+}
+
+span.wedo-icon-export .dynatree-icon {
+    background-position: -28px -84px;
+}
+
+span.wedo-icon-file .dynatree-icon {
+    background-position: -56px -84px;
+}
+
+span.wedo-icon-files .dynatree-icon {
+    background-position: -84px -84px;
+}
+
+span.wedo-icon-coins .dynatree-icon {
+    background-position: -112px -84px;
+}
+
+span.wedo-icon-visible .dynatree-icon {
+    background-position: -140px -84px;
+}
+
+span.wedo-icon-invisible .dynatree-icon {
+    background-position: -168px -84px;
+}
+
+span.wedo-icon-sort .dynatree-icon {
+    background-position: -196px -84px;
+}
+
+span.wedo-icon-sort-desc .dynatree-icon {
+    background-position: -224px -84px;
+}
+
+span.wedo-icon-sort-asc .dynatree-icon {
+    background-position: -252px -84px;
+}
+
+span.wedo-icon-locked .dynatree-icon {
+    background-position: -280px -84px;
+}
+
+span.wedo-icon-unlocked .dynatree-icon {
+    background-position: -308px -84px;
+}
+
+span.wedo-icon-flag .dynatree-icon {
+    background-position: -336px -84px;
+}
+
+span.wedo-icon-table-alt .dynatree-icon {
+    background-position: -0px -112px;
+}
+
+span.wedo-icon-line-chart .dynatree-icon {
+    background-position: -28px -112px;
+}
+
+span.wedo-icon-bar-chart .dynatree-icon {
+    background-position: -56px -112px;
+}
+
+span.wedo-icon-pie-chart .dynatree-icon {
+    background-position: -84px -112px;
+}
+
+span.wedo-icon-ekg .dynatree-icon {
+    background-position: -112px -112px;
+}
+
+span.wedo-icon-alarm .dynatree-icon {
+    background-position: -140px -112px;
+}
+
+span.wedo-icon-clock .dynatree-icon {
+    background-position: -168px -112px;
+}
+
+span.wedo-icon-crono .dynatree-icon {
+    background-position: -196px -112px;
+}
+
+span.wedo-icon-clock-alt .dynatree-icon {
+    background-position: -224px -112px;
+}
+
+span.wedo-icon-net .dynatree-icon {
+    background-position: -252px -112px;
+}
+
+span.wedo-icon-clip .dynatree-icon {
+    background-position: -280px -112px;
+}
+
+span.wedo-icon-off .dynatree-icon {
+    background-position: -308px -112px;
+}
+
+span.wedo-icon-bulb .dynatree-icon {
+    background-position: -336px -112px;
+}
+
+span.wedo-icon-wifi .dynatree-icon {
+    background-position: -0px -140px;
+}
+
+span.wedo-icon-warning .dynatree-icon {
+    background-position: -28px -140px;
+}
+
+span.wedo-icon-signal-bars .dynatree-icon {
+    background-position: -56px -140px;
+}
+
+span.wedo-icon-globe .dynatree-icon {
+    background-position: -84px -140px;
+}
+
+span.wedo-icon-browser .dynatree-icon {
+    background-position: -112px -140px;
+}
+
+span.wedo-icon-compass .dynatree-icon {
+    background-position: -140px -140px;
+}
+
+span.wedo-icon-retweet .dynatree-icon {
+    background-position: -168px -140px;
+}
+
+span.wedo-icon-refresh .dynatree-icon {
+    background-position: -196px -140px;
+}
+
+span.wedo-icon-rotation-lock .dynatree-icon {
+    background-position: -224px -140px;
+}
+
+span.wedo-icon-random .dynatree-icon {
+    background-position: -252px -140px;
+}
+
+span.wedo-icon-heat .dynatree-icon {
+    background-position: -280px -140px;
+}
+
+span.wedo-icon-repeat .dynatree-icon {
+    background-position: -308px -140px;
+}
+
+span.wedo-icon-repeat-alt .dynatree-icon {
+    background-position: -336px -140px;
+}
+
+span.wedo-icon-display .dynatree-icon {
+    background-position: -0px -168px;
+}
+
+span.wedo-icon-text-font .dynatree-icon {
+    background-position: -28px -168px;
+}
+
+span.wedo-icon-text-italic .dynatree-icon {
+    background-position: -56px -168px;
+}
+
+span.wedo-icon-text-bold .dynatree-icon {
+    background-position: -84px -168px;
+}
+
+span.wedo-icon-text-underline .dynatree-icon {
+    background-position: -112px -168px;
+}
+
+span.wedo-icon-text-strike .dynatree-icon {
+    background-position: -140px -168px;
+}
+
+span.wedo-icon-text-height .dynatree-icon {
+    background-position: -168px -168px;
+}
+
+span.wedo-icon-text-width .dynatree-icon {
+    background-position: -196px -168px;
+}
+
+span.wedo-icon-text-resize .dynatree-icon {
+    background-position: -224px -168px;
+}
+
+span.wedo-icon-left-indent .dynatree-icon {
+    background-position: -252px -168px;
+}
+
+span.wedo-icon-right-indent .dynatree-icon {
+    background-position: -280px -168px;
+}
+
+span.wedo-icon-embed .dynatree-icon {
+    background-position: -308px -168px;
+}
+
+span.wedo-icon-embed-close .dynatree-icon {
+    background-position: -336px -168px;
+}
+
+span.wedo-icon-align-left .dynatree-icon {
+    background-position: -0px -196px;
+}
+
+span.wedo-icon-align-center .dynatree-icon {
+    background-position: -28px -196px;
+}
+
+span.wedo-icon-align-right .dynatree-icon {
+    background-position: -56px -196px;
+}
+
+span.wedo-icon-justify .dynatree-icon {
+    background-position: -84px -196px;
+}
+
+span.wedo-icon-list .dynatree-icon {
+    background-position: -112px -196px;
+}
+
+span.wedo-icon-text-smaller .dynatree-icon {
+    background-position: -140px -196px;
+}
+
+span.wedo-icon-text-bigger .dynatree-icon {
+    background-position: -168px -196px;
+}
+
+span.wedo-icon-adjust .dynatree-icon {
+    background-position: -196px -196px;
+}
+
+span.wedo-icon-message .dynatree-icon {
+    background-position: -224px -196px;
+}
+
+span.wedo-icon-message-full .dynatree-icon {
+    background-position: -252px -196px;
+}
+
+span.wedo-icon-message-empty .dynatree-icon {
+    background-position: -280px -196px;
+}
+
+span.wedo-icon-message-in .dynatree-icon {
+    background-position: -308px -196px;
+}
+
+span.wedo-icon-message-out .dynatree-icon {
+    background-position: -336px -196px;
+}
+
+span.wedo-icon-message-plus .dynatree-icon {
+    background-position: -0px -224px;
+}
+
+span.wedo-icon-message-minus .dynatree-icon {
+    background-position: -28px -224px;
+}
+
+span.wedo-icon-message-ban .dynatree-icon {
+    background-position: -56px -224px;
+}
+
+span.wedo-icon-message-flag .dynatree-icon {
+    background-position: -84px -224px;
+}
+
+span.wedo-icon-message-lock .dynatree-icon {
+    background-position: -112px -224px;
+}
+
+span.wedo-icon-message-new .dynatree-icon {
+    background-position: -140px -224px;
+}
+
+span.wedo-icon-inbox .dynatree-icon {
+    background-position: -168px -224px;
+}
+
+span.wedo-icon-inbox-plus .dynatree-icon {
+    background-position: -196px -224px;
+}
+
+span.wedo-icon-inbox-minus .dynatree-icon {
+    background-position: -224px -224px;
+}
+
+span.wedo-icon-inbox-lock .dynatree-icon {
+    background-position: -252px -224px;
+}
+
+span.wedo-icon-inbox-in .dynatree-icon {
+    background-position: -280px -224px;
+}
+
+span.wedo-icon-inbox-out .dynatree-icon {
+    background-position: -308px -224px;
+}
+
+span.wedo-icon-phone .dynatree-icon {
+    background-position: -336px -224px;
+}
+
+span.wedo-icon-screen-lock .dynatree-icon {
+    background-position: -0px -252px;
+}
+
+span.wedo-icon-screen-new .dynatree-icon {
+    background-position: -28px -252px;
+}
+
+span.wedo-icon-screen-ellipsis .dynatree-icon {
+    background-position: -56px -252px;
+}
+
+span.wedo-icon-folder .dynatree-icon {
+    background-position: -84px -252px;
+}
+
+span.wedo-icon-folder-open .dynatree-icon {
+    background-position: -112px -252px;
+}
+
+span.wedo-icon-folder-plus .dynatree-icon {
+    background-position: -140px -252px;
+}
+
+span.wedo-icon-folder-minus .dynatree-icon {
+    background-position: -168px -252px;
+}
+
+span.wedo-icon-folder-lock .dynatree-icon {
+    background-position: -196px -252px;
+}
+
+span.wedo-icon-folder-flag .dynatree-icon {
+    background-position: -224px -252px;
+}
+
+span.wedo-icon-folder-new .dynatree-icon {
+    background-position: -252px -252px;
+}
+
+span.wedo-icon-zip .dynatree-icon {
+    background-position: -280px -252px;
+}
+
+span.wedo-icon-download .dynatree-icon {
+    background-position: -308px -252px;
+}
+
+span.wedo-icon-ellipsis .dynatree-icon {
+    background-position: -336px -252px;
+}
+
+span.wedo-icon-step-backward .dynatree-icon {
+    background-position: -0px -280px;
+}
+
+span.wedo-icon-fast-backward .dynatree-icon {
+    background-position: -28px -280px;
+}
+
+span.wedo-icon-rewind .dynatree-icon {
+    background-position: -56px -280px;
+}
+
+span.wedo-icon-play .dynatree-icon {
+    background-position: -84px -280px;
+}
+
+span.wedo-icon-forward .dynatree-icon {
+    background-position: -112px -280px;
+}
+
+span.wedo-icon-fast-forward .dynatree-icon {
+    background-position: -140px -280px;
+}
+
+span.wedo-icon-step-forward .dynatree-icon {
+    background-position: -168px -280px;
+}
+
+span.wedo-icon-plus .dynatree-icon {
+    background-position: -196px -280px;
+}
+
+span.wedo-icon-minus .dynatree-icon {
+    background-position: -224px -280px;
+}
+
+span.wedo-icon-remove .dynatree-icon {
+    background-position: -252px -280px;
+}
+
+span.wedo-icon-check .dynatree-icon {
+    background-position: -280px -280px;
+}
+
+span.wedo-icon-question .dynatree-icon {
+    background-position: -308px -280px;
+}
+
+span.wedo-icon-info .dynatree-icon {
+    background-position: -336px -280px;
+}
+
+span.wedo-icon-exclamation .dynatree-icon {
+    background-position: -0px -308px;
+}
+
+span.wedo-icon-remove-sign .dynatree-icon {
+    background-position: -28px -308px;
+}
+
+span.wedo-icon-check-sign .dynatree-icon {
+    background-position: -56px -308px;
+}
+
+span.wedo-icon-block-sign .dynatree-icon {
+    background-position: -84px -308px;
+}
+
+span.wedo-icon-play-sign .dynatree-icon {
+    background-position: -112px -308px;
+}
+
+span.wedo-icon-down-sign .dynatree-icon {
+    background-position: -140px -308px;
+}
+
+span.wedo-icon-up-sign .dynatree-icon {
+    background-position: -168px -308px;
+}
+
+span.wedo-icon-left-arrow-sign .dynatree-icon {
+    background-position: -196px -308px;
+}
+
+span.wedo-icon-right-arrow-sign .dynatree-icon {
+    background-position: -224px -308px;
+}
+
+span.wedo-icon-up-arrow-sign .dynatree-icon {
+    background-position: -252px -308px;
+}
+
+span.wedo-icon-down-arrow-sign .dynatree-icon {
+    background-position: -280px -308px;
+}
+
+span.wedo-icon-minimize .dynatree-icon {
+    background-position: -308px -308px;
+}
+
+span.wedo-icon-maximize .dynatree-icon {
+    background-position: -336px -308px;
+}
+
+span.wedo-icon-left-arrow .dynatree-icon {
+    background-position: -0px -336px;
+}
+
+span.wedo-icon-right-arrow .dynatree-icon {
+    background-position: -28px -336px;
+}
+
+span.wedo-icon-up-arrow .dynatree-icon {
+    background-position: -56px -336px;
+}
+
+span.wedo-icon-down-arrow .dynatree-icon {
+    background-position: -84px -336px;
+}
+
+span.wedo-icon-fullscreen .dynatree-icon {
+    background-position: -112px -336px;
+}
+
+span.wedo-icon-move-cursor .dynatree-icon {
+    background-position: -140px -336px;
+}
+
+span.wedo-icon-undo .dynatree-icon {
+    background-position: -168px -336px;
+}
+
+span.wedo-icon-redo .dynatree-icon {
+    background-position: -196px -336px;
+}
+
+span.wedo-icon-right-arrow-thin .dynatree-icon {
+    background-position: -224px -336px;
+}
+
+span.wedo-icon-left-arrow-thin .dynatree-icon {
+    background-position: -252px -336px;
+}
+
+span.wedo-icon-ok-bold .dynatree-icon {
+    background-position: -280px -336px;
+}
+
+span.wedo-icon-remove-bold .dynatree-icon {
+    background-position: -308px -336px;
+}
+
+span.wedo-icon-retweet-vertical .dynatree-icon {
+    background-position: -336px -336px;
+}
+
+span.wedo-icon-thumbs-ok .dynatree-icon {
+    background-position: -0px -364px;
+}
+
+span.wedo-icon-thumbs-not-ok .dynatree-icon {
+    background-position: -28px -364px;
+}
+
+span.wedo-icon-thumbs-right .dynatree-icon {
+    background-position: -56px -364px;
+}
+
+span.wedo-icon-thumbs-left .dynatree-icon {
+    background-position: -84px -364px;
+}
+
+span.wedo-icon-thumbs-up .dynatree-icon {
+    background-position: -112px -364px;
+}
+
+span.wedo-icon-thumbs-down .dynatree-icon {
+    background-position: -140px -364px;
+}
+
+span.wedo-icon-big-thumbnails .dynatree-icon {
+    background-position: -168px -364px;
+}
+
+span.wedo-icon-thumbnails .dynatree-icon {
+    background-position: -196px -364px;
+}
+
+span.wedo-icon-thumbnails-lines .dynatree-icon {
+    background-position: -224px -364px;
+}
+
+span.wedo-icon-lines .dynatree-icon {
+    background-position: -252px -364px;
+}
+
+span.wedo-icon-euro .dynatree-icon {
+    background-position: -280px -364px;
+}
+
+span.wedo-icon-dollar .dynatree-icon {
+    background-position: -308px -364px;
+}
+
+span.wedo-icon-pound .dynatree-icon {
+    background-position: -336px -364px;
+}
+
+span.wedo-icon-filter .dynatree-icon {
+    background-position: -0px -392px;
+}
+
+span.wedo-icon-share .dynatree-icon {
+    background-position: -28px -392px;
+}
+
+span.wedo-icon-marker .dynatree-icon {
+    background-position: -56px -392px;
+}
+
+span.wedo-icon-pin .dynatree-icon {
+    background-position: -84px -392px;
+}
+
+span.wedo-icon-flag-alt .dynatree-icon {
+    background-position: -112px -392px;
+}
+
+span.wedo-icon-keyboard .dynatree-icon {
+    background-position: -140px -392px;
+}
+
+span.wedo-icon-conversation .dynatree-icon {
+    background-position: -168px -392px;
+}
+
+span.wedo-icon-chat .dynatree-icon {
+    background-position: -196px -392px;
+}
+
+span.wedo-icon-chat-alt .dynatree-icon {
+    background-position: -224px -392px;
+}
+
+span.wedo-icon-new .dynatree-icon {
+    background-position: -252px -392px;
+}
+
+span.wedo-icon-divide .dynatree-icon {
+    background-position: -280px -392px;
+}
+
+span.wedo-icon-bell .dynatree-icon {
+    background-position: -308px -392px;
+}
+
+span.wedo-icon-badge .dynatree-icon {
+    background-position: -336px -392px;
+}
+
+span.wedo-icon-qrcode .dynatree-icon {
+    background-position: -0px -420px;
+}
+
+span.wedo-icon-gauge .dynatree-icon {
+    background-position: -28px -420px;
+}
+
+span.wedo-icon-new-window .dynatree-icon {
+    background-position: -56px -420px;
+}
+
+span.wedo-icon-edit-window .dynatree-icon {
+    background-position: -84px -420px;
+}
+
+span.wedo-icon-check-window .dynatree-icon {
+    background-position: -112px -420px;
+}
+
+span.wedo-icon-maximize-window .dynatree-icon {
+    background-position: -140px -420px;
+}
+
+span.wedo-icon-minimize-window .dynatree-icon {
+    background-position: -168px -420px;
+}
+
+span.wedo-icon-tree-plus-large .dynatree-icon {
+    background-position: -196px -420px;
+}
+
+span.wedo-icon-tree-minus-large .dynatree-icon {
+    background-position: -224px -420px;
+}
+
+span.wedo-icon-tree-new .dynatree-icon {
+    background-position: -252px -420px;
+}
+
+span.wedo-icon-tree-new-expression .dynatree-icon {
+    background-position: -280px -420px;
+}
+
+span.wedo-icon-tree-plus-stack .dynatree-icon {
+    background-position: -308px -420px;
+}
+
+span.wedo-icon-tree-minus-stack .dynatree-icon {
+    background-position: -336px -420px;
+}
+
+span.wedo-icon-tree-stack .dynatree-icon {
+    background-position: -0px -448px;
+}
+
+span.wedo-icon-tree-merge .dynatree-icon {
+    background-position: -28px -448px;
+}
+
+span.wedo-icon-tree-move-all .dynatree-icon {
+    background-position: -56px -448px;
+}
+
+span.wedo-icon-tree-expression-edit .dynatree-icon {
+    background-position: -84px -448px;
+}
+
+span.wedo-icon-tree-functions .dynatree-icon {
+    background-position: -112px -448px;
+}
+
+span.wedo-icon-tree-items .dynatree-icon {
+    background-position: -140px -448px;
+}
+
+span.wedo-icon-tree-fields .dynatree-icon {
+    background-position: -168px -448px;
+}
+
+span.wedo-icon-tree-arithmetic .dynatree-icon {
+    background-position: -196px -448px;
+}
+
+span.wedo-icon-tree-calendar .dynatree-icon {
+    background-position: -224px -448px;
+}
+
+span.wedo-icon-tree-function .dynatree-icon {
+    background-position: -252px -448px;
+}
+
+span.wedo-icon-tree-text .dynatree-icon {
+    background-position: -280px -448px;
+}
+
+span.wedo-icon-tree-function-alt .dynatree-icon {
+    background-position: -308px -448px;
+}
+
+span.wedo-icon-tree-text-alt .dynatree-icon {
+    background-position: -336px -448px;
+}
+
+span.wedo-icon-expression-refresh .dynatree-icon {
+    background-position: -0px -476px;
+}
+
+span.wedo-icon-expression-boxes .dynatree-icon {
+    background-position: -28px -476px;
+}
+
+span.wedo-icon-expression-charts .dynatree-icon {
+    background-position: -56px -476px;
+}
+
+span.wedo-icon-expression-workflow .dynatree-icon {
+    background-position: -84px -476px;
+}
+
+span.wedo-icon-expression-items .dynatree-icon {
+    background-position: -112px -476px;
+}
+
+span.wedo-icon-expression-sliders .dynatree-icon {
+    background-position: -140px -476px;
+}
+
+span.wedo-icon-expression-bars .dynatree-icon {
+    background-position: -168px -476px;
+}
+
+span.wedo-icon-expression-rulers .dynatree-icon {
+    background-position: -196px -476px;
+}
+
+span.wedo-icon-expression-statistics .dynatree-icon {
+    background-position: -224px -476px;
+}
+
+span.wedo-icon-expression-board .dynatree-icon {
+    background-position: -252px -476px;
+}
+
+span.wedo-icon-expression-empty .dynatree-icon {
+    background-position: -280px -476px;
+}
+
+span.wedo-icon-expression-connect .dynatree-icon {
+    background-position: -308px -476px;
+}
+
+span.wedo-icon-expression-numbers .dynatree-icon {
+    background-position: -336px -476px;
+}
+
+span.wedo-icon-expression-window .dynatree-icon {
+    background-position: -0px -504px;
+}
+
+span.wedo-icon-expression-window-plus .dynatree-icon {
+    background-position: -28px -504px;
+}
+
+span.wedo-icon-expression-window-remove .dynatree-icon {
+    background-position: -56px -504px;
+}
+
+span.wedo-icon-expression-window-warning .dynatree-icon {
+    background-position: -84px -504px;
+}
+
+span.wedo-icon-expression-window-play .dynatree-icon {
+    background-position: -112px -504px;
+}
+
+span.wedo-icon-expression-window-elipsis .dynatree-icon {
+    background-position: -140px -504px;
+}
+
+span.wedo-icon-expression-window-block .dynatree-icon {
+    background-position: -168px -504px;
+}
+
+span.wedo-icon-expression-window-new .dynatree-icon {
+    background-position: -196px -504px;
+}
+
+span.wedo-icon-expression-window-edit .dynatree-icon {
+    background-position: -224px -504px;
+}
+
+span.wedo-icon-expression-life .dynatree-icon {
+    background-position: -252px -504px;
+}
+
+span.wedo-icon-expression-valid-export .dynatree-icon {
+    background-position: -280px -504px;
+}
+
+span.wedo-icon-expression-new-export .dynatree-icon {
+    background-position: -308px -504px;
+}
+
+span.wedo-icon-expression-law .dynatree-icon {
+    background-position: -336px -504px;
+}
+
+span.wedo-icon-expression-calendar .dynatree-icon {
+    background-position: -0px -532px;
+}
+
+span.wedo-icon-expression-happy .dynatree-icon {
+    background-position: -28px -532px;
+}
+
+span.wedo-icon-expression-down .dynatree-icon {
+    background-position: -56px -532px;
+}
+
+span.wedo-icon-expression-up .dynatree-icon {
+    background-position: -84px -532px;
+}
+
+span.wedo-icon-expression-right-up .dynatree-icon {
+    background-position: -112px -532px;
+}
+
+span.wedo-icon-expression-right-down .dynatree-icon {
+    background-position: -140px -532px;
+}
+
+span.wedo-icon-expression-plus .dynatree-icon {
+    background-position: -168px -532px;
+}
+
+span.wedo-icon-expression-minus .dynatree-icon {
+    background-position: -196px -532px;
+}
+
+span.wedo-icon-expression-source-plus .dynatree-icon {
+    background-position: -224px -532px;
+}
+
+span.wedo-icon-expression-source-minus .dynatree-icon {
+    background-position: -252px -532px;
+}
+
+span.wedo-icon-expression-source-lock .dynatree-icon {
+    background-position: -280px -532px;
+}
+
+span.wedo-icon-expression-source-block .dynatree-icon {
+    background-position: -308px -532px;
+}
+
+span.wedo-icon-expression-shield .dynatree-icon {
+    background-position: -336px -532px;
+}
+
+span.wedo-icon-move-right .dynatree-icon {
+    background-position: -0px -560px;
+}
+
+span.wedo-icon-move-left .dynatree-icon {
+    background-position: -28px -560px;
+}
+
+span.wedo-icon-move-all-right .dynatree-icon {
+    background-position: -56px -560px;
+}
+
+span.wedo-icon-move-all-left .dynatree-icon {
+    background-position: -84px -560px;
+}
+
+span.wedo-icon-datalist .dynatree-icon {
+    background-position: -112px -560px;
+}
+
+span.wedo-icon-tree-plus .dynatree-icon {
+    background-position: -140px -560px;
+}
+
+span.wedo-icon-tree-minus .dynatree-icon {
+    background-position: -168px -560px;
+}
+
+span.wedo-icon-expression-left-up .dynatree-icon {
+    background-position: -196px -560px;
+}
+
+span.wedo-icon-expression-left-down .dynatree-icon {
+    background-position: -224px -560px;
+}
+
+span.wedo-icon-left-up-arrow .dynatree-icon {
+    background-position: -252px -560px;
+}
+
+span.wedo-icon-left-down-arrow .dynatree-icon {
+    background-position: -280px -560px;
+}
+
+span.wedo-icon-right-up-arrow .dynatree-icon {
+    background-position: -308px -560px;
+}
+
+span.wedo-icon-right-down-arrow .dynatree-icon {
+    background-position: -336px -560px;
+}
+
+span.wedo-icon-kpi-right-down .dynatree-icon {
+    background-position: -0px -588px;
+}
+
+span.wedo-icon-kpi-left-down .dynatree-icon {
+    background-position: -28px -588px;
+}
+
+span.wedo-icon-kpi-right-up .dynatree-icon {
+    background-position: -56px -588px;
+}
+
+span.wedo-icon-kpi-left-up .dynatree-icon {
+    background-position: -84px -588px;
+}
+
+span.wedo-icon-look-and-feel .dynatree-icon {
+    background-position: -112px -588px;
+}
+
+span.wedo-icon-save .dynatree-icon {
+    background-position: -140px -588px;
+}
+
+span.wedo-icon-widget-configuration .dynatree-icon {
+    background-position: -168px -588px;
+}
+
+span.wedo-icon-behavior-mapping .dynatree-icon {
+    background-position: -196px -588px;
+}
+
+span.wedo-icon-layout-management .dynatree-icon {
+    background-position: -224px -588px;
+}
+
+span.wedo-icon-new-section-template .dynatree-icon {
+    background-position: -252px -588px;
+}
+
+span.wedo-icon-section-navigation-widget .dynatree-icon {
+    background-position: -280px -588px;
+}
+
+span.wedo-icon-title-bar-widget .dynatree-icon {
+    background-position: -308px -588px;
+}
+
+span.wedo-icon-restrictions-widget .dynatree-icon {
+    background-position: -336px -588px;
+}
+
+span.wedo-icon-filter-bar-widget .dynatree-icon {
+    background-position: -0px -616px;
+}
+
+span.wedo-icon-history .dynatree-icon {
+    background-position: -28px -616px;
+}
+
+span.wedo-icon-properties .dynatree-icon {
+    background-position: -56px -616px;
+}
+
+span.wedo-icon-initialization .dynatree-icon {
+    background-position: -84px -616px;
+}
+
+span.wedo-icon-actions-management .dynatree-icon {
+    background-position: -112px -616px;
+}
+
+span.wedo-icon-actions-control .dynatree-icon {
+    background-position: -140px -616px;
+}
+
+span.wedo-icon-actions-monitoring .dynatree-icon {
+    background-position: -168px -616px;
+}
+
+span.wedo-icon-actions-auditing .dynatree-icon {
+    background-position: -196px -616px;
+}
+
+span.wedo-icon-1d-bar-code .dynatree-icon {
+    background-position: -224px -616px;
+}
+
+span.wedo-icon-modal-manager .dynatree-icon {
+    background-position: -252px -616px;
+}
+
+span.wedo-icon-blacklist-manager .dynatree-icon {
+    background-position: -280px -616px;
+}
+
+span.wedo-icon-multiple-activation .dynatree-icon {
+    background-position: -308px -616px;
+}
+
+span.wedo-icon-vat-validation .dynatree-icon {
+    background-position: -336px -616px;
+}
+
+span.wedo-icon-entity-exemption .dynatree-icon {
+    background-position: -0px -644px;
+}
+
+span.wedo-icon-entity-exemption-manager .dynatree-icon {
+    background-position: -28px -644px;
+}
+
+span.wedo-icon-entity-exemption-rule-audit .dynatree-icon {
+    background-position: -56px -644px;
+}
+
+span.wedo-icon-global-entity-exemption-fields .dynatree-icon {
+    background-position: -84px -644px;
+}
+
+span.wedo-icon-scoring-management .dynatree-icon {
+    background-position: -112px -644px;
+}
+
+span.wedo-icon-scoring-normalizer .dynatree-icon {
+    background-position: -140px -644px;
+}
+
+span.wedo-icon-hotlist .dynatree-icon {
+    background-position: -168px -644px;
+}
+
+span.wedo-icon-hotlist-configure .dynatree-icon {
+    background-position: -196px -644px;
+}
+
+span.wedo-icon-hotlist-approve .dynatree-icon {
+    background-position: -224px -644px;
+}
+
+span.wedo-icon-auditing .dynatree-icon {
+    background-position: -252px -644px;
+}
+
+span.wedo-icon-auditing-rules .dynatree-icon {
+    background-position: -280px -644px;
+}
+
+span.wedo-icon-profile-management .dynatree-icon {
+    background-position: -308px -644px;
+}
+
+span.wedo-icon-over-threshold .dynatree-icon {
+    background-position: -336px -644px;
+}
+
+span.wedo-icon-link-analysis-export .dynatree-icon {
+    background-position: -0px -672px;
+}
+
+span.wedo-icon-rule-activate .dynatree-icon {
+    background-position: -28px -672px;
+}
+
+span.wedo-icon-rule-deactivate .dynatree-icon {
+    background-position: -56px -672px;
+}
+
+span.wedo-icon-rule-approve .dynatree-icon {
+    background-position: -84px -672px;
+}
+
+span.wedo-icon-rule-reject .dynatree-icon {
+    background-position: -112px -672px;
+}
+
+span.wedo-icon-rule-offline .dynatree-icon {
+    background-position: -140px -672px;
+}
+
+span.wedo-icon-rule-submit .dynatree-icon {
+    background-position: -168px -672px;
+}
+
+span.wedo-icon-rule-unsubmit .dynatree-icon {
+    background-position: -196px -672px;
+}
+
+span.wedo-icon-rule-add .dynatree-icon {
+    background-position: -224px -672px;
+}
+
+span.wedo-icon-rule-export-list .dynatree-icon {
+    background-position: -252px -672px;
+}
+
+span.wedo-icon-rule-view .dynatree-icon {
+    background-position: -280px -672px;
+}
+
+span.wedo-icon-rule-edit .dynatree-icon {
+    background-position: -308px -672px;
+}
+
+span.wedo-icon-rule-history .dynatree-icon {
+    background-position: -336px -672px;
+}
+
+span.wedo-icon-rule-new .dynatree-icon {
+    background-position: -0px -700px;
+}
+
+span.wedo-icon-rule-action-log .dynatree-icon {
+    background-position: -28px -700px;
+}
+
+span.wedo-icon-rule-executions .dynatree-icon {
+    background-position: -56px -700px;
+}
+
+span.wedo-icon-fraud-cases-type .dynatree-icon {
+    background-position: -84px -700px;
+}
+
+span.wedo-icon-new-cases-report .dynatree-icon {
+    background-position: -112px -700px;
+}
+
+span.wedo-icon-idle-cases-report .dynatree-icon {
+    background-position: -140px -700px;
+}
+
+span.wedo-icon-resolved-cases-type .dynatree-icon {
+    background-position: -168px -700px;
+}
+
+span.wedo-icon-resolved-cases-correlation .dynatree-icon {
+    background-position: -196px -700px;
+}
+
+span.wedo-icon-solved-cases-detailed .dynatree-icon {
+    background-position: -224px -700px;
+}
+
+span.wedo-icon-alarm-type-statistics .dynatree-icon {
+    background-position: -252px -700px;
+}
+
+span.wedo-icon-unused-rules .dynatree-icon {
+    background-position: -280px -700px;
+}
+
+span.wedo-icon-group-analysis .dynatree-icon {
+    background-position: -308px -700px;
+}
+
+span.wedo-icon-average-gap-time .dynatree-icon {
+    background-position: -336px -700px;
+}
+
+span.wedo-icon-average-detection-time .dynatree-icon {
+    background-position: -0px -728px;
+}
+
+span.wedo-icon-detection-source .dynatree-icon {
+    background-position: -28px -728px;
+}
+
+span.wedo-icon-archived-fraudulent-cases .dynatree-icon {
+    background-position: -56px -728px;
+}
+
+span.wedo-icon-fraud-cases-correlation .dynatree-icon {
+    background-position: -84px -728px;
+}
+
+span.wedo-icon-fraud-cases-detection .dynatree-icon {
+    background-position: -112px -728px;
+}
+
+span.wedo-icon-fraud-alerts-detection .dynatree-icon {
+    background-position: -140px -728px;
+}
+
+span.wedo-icon-false-positive-cases .dynatree-icon {
+    background-position: -168px -728px;
+}
+
+span.wedo-icon-closed-cases-type .dynatree-icon {
+    background-position: -196px -728px;
+}
+
+span.wedo-icon-detection-usage .dynatree-icon {
+    background-position: -224px -728px;
+}
+
+span.wedo-icon-correlation-usage .dynatree-icon {
+    background-position: -252px -728px;
+}
+
+span.wedo-icon-cases-resolution .dynatree-icon {
+    background-position: -280px -728px;
+}
+
+span.wedo-icon-unused-correlation .dynatree-icon {
+    background-position: -308px -728px;
+}
+
+span.wedo-icon-unused-detection .dynatree-icon {
+    background-position: -336px -728px;
+}
+
+span.wedo-icon-fraud-trend .dynatree-icon {
+    background-position: -0px -756px;
+}
+
+span.wedo-icon-connections-product .dynatree-icon {
+    background-position: -28px -756px;
+}
+
+span.wedo-icon-detection-time .dynatree-icon {
+    background-position: -56px -756px;
+}
+
+span.wedo-icon-speed-resolving .dynatree-icon {
+    background-position: -84px -756px;
+}
+
+span.wedo-icon-rule-delete .dynatree-icon {
+    background-position: -112px -756px;
+}
+
+span.wedo-icon-excel-export .dynatree-icon {
+    background-position: -140px -756px;
+}
+
+span.wedo-icon-zoom-reset .dynatree-icon {
+    background-position: -168px -756px;
+}
+
+span.wedo-icon-disable-filter .dynatree-icon {
+    background-position: -196px -756px;
+}
+
+span.wedo-icon-chart-exclamation .dynatree-icon {
+    background-position: -224px -756px;
+}
+
+span.wedo-icon-user-preferences .dynatree-icon {
+    background-position: -252px -756px;
+}
+
+span.wedo-icon-area-chart .dynatree-icon {
+    background-position: -280px -756px;
+}
+
+span.wedo-icon-scatter-chart .dynatree-icon {
+    background-position: -308px -756px;
+}
+
+span.wedo-icon-spline-chart .dynatree-icon {
+    background-position: -336px -756px;
+}
+
+span.wedo-icon-area-spline-chart .dynatree-icon {
+    background-position: -0px -784px;
+}
+
+span.wedo-icon-number-sign .dynatree-icon {
+    background-position: -28px -784px;
+}
+
+span.wedo-icon-summatory .dynatree-icon {
+    background-position: -56px -784px;
+}
+
+span.wedo-icon-average .dynatree-icon {
+    background-position: -84px -784px;
+}
+
+span.wedo-icon-maxium .dynatree-icon {
+    background-position: -112px -784px;
+}
+
+span.wedo-icon-minium .dynatree-icon {
+    background-position: -140px -784px;
+}
+
+span.wedo-icon-list-aggregation .dynatree-icon {
+    background-position: -168px -784px;
+}
+
+span.wedo-icon-aggregation .dynatree-icon {
+    background-position: -196px -784px;
+}
+
+span.wedo-icon-text .dynatree-icon {
+    background-position: -224px -784px;
+}
+
+span.wedo-icon-numeric .dynatree-icon {
+    background-position: -252px -784px;
+}
+
+span.wedo-icon-boolean .dynatree-icon {
+    background-position: -280px -784px;
+}
+
+span.wedo-icon-over-threshold-entity .dynatree-icon {
+    background-position: -308px -784px;
+}
+
+span.wedo-icon-detection-engines-scoring .dynatree-icon {
+    background-position: -336px -784px;
+}
+
+span.wedo-icon-detection-engines-scoring-audit .dynatree-icon {
+    background-position: -0px -812px;
+}
+
+span.wedo-icon-correlation-engines-scoring .dynatree-icon {
+    background-position: -28px -812px;
+}
+
+span.wedo-icon-correlation-engines-scoring-audit .dynatree-icon {
+    background-position: -56px -812px;
+}
+
+span.wedo-icon-score-models .dynatree-icon {
+    background-position: -84px -812px;
+}
+
+span.wedo-icon-score-models-audit .dynatree-icon {
+    background-position: -112px -812px;
+}
+
+span.wedo-icon-gadget-user-preferences .dynatree-icon {
+    background-position: -140px -812px;
+}
+
+span.wedo-icon-align-top .dynatree-icon {
+    background-position: -168px -812px;
+}
+
+span.wedo-icon-align-middle .dynatree-icon {
+    background-position: -196px -812px;
+}
+
+span.wedo-icon-align-bottom .dynatree-icon {
+    background-position: -224px -812px;
+}
+
+span.wedo-icon-tracing .dynatree-icon {
+    background-position: -252px -812px;
+}
+
+span.wedo-icon-check-out .dynatree-icon {
+    background-position: -280px -812px;
+}
+
+span.wedo-icon-hierarchical .dynatree-icon {
+    background-position: -308px -812px;
+}
+
+span.wedo-icon-datasource .dynatree-icon {
+    background-position: -336px -812px;
+}
+
+span.wedo-icon-context .dynatree-icon {
+    background-position: -0px -840px;
+}
+
+span.wedo-icon-entity-group .dynatree-icon {
+    background-position: -28px -840px;
+}
+
+span.wedo-icon-entity .dynatree-icon {
+    background-position: -56px -840px;
+}
+
+span.wedo-icon-logical_field .dynatree-icon {
+    background-position: -84px -840px;
+}
+
+span.wedo-icon-logical_type .dynatree-icon {
+    background-position: -112px -840px;
+}
+
+span.wedo-icon-antenna .dynatree-icon {
+    background-position: -140px -840px;
+}
+
+span.wedo-icon-tree-collapsed .dynatree-icon {
+    background-position: -168px -840px;
+}
+
+span.wedo-icon-tree-expanded .dynatree-icon {
+    background-position: -196px -840px;
+}
+
+span.wedo-icon-home-lock .dynatree-icon {
+    background-position: -224px -840px;
+}
+
+span.wedo-icon-home-lock-two .dynatree-icon {
+    background-position: -252px -840px;
+}
+
+span.wedo-icon-vault .dynatree-icon {
+    background-position: -280px -840px;
+}
+
+span.wedo-icon-vault-two .dynatree-icon {
+    background-position: -308px -840px;
+}
+
+span.wedo-icon-vault-three .dynatree-icon {
+    background-position: -336px -840px;
+}
+
+span.wedo-icon-vault-four .dynatree-icon {
+    background-position: -0px -868px;
+}
+
+span.wedo-icon-vault-five .dynatree-icon {
+    background-position: -28px -868px;
+}
+
+span.wedo-icon-add-filter-restrictions .dynatree-icon {
+    background-position: -56px -868px;
+}
+
+span.wedo-icon-add-filter-white-list .dynatree-icon {
+    background-position: -84px -868px;
+}
+
+span.wedo-icon-add-filter-black-list .dynatree-icon {
+    background-position: -112px -868px;
+}
+
+span.wedo-icon-not .dynatree-icon {
+    background-position: -140px -868px;
+}
+
+[class^="wedo-big-icon-"],
+[class*=" wedo-big-icon-"] {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    *margin-right: .3em;
+    line-height: 24px;
+    vertical-align: text-top;
+    background-image: url("../images/icons-24.png");
+    background-position: 14px 14px;
+    background-repeat: no-repeat;
+}
+
+[class^="wedo-big-icon-"]:last-child,
+[class*=" wedo-big-icon-"]:last-child {
+    *margin-left: 0;
+}
+
+.wedo-big-icon-white,
+.main-nav>.active>a>[class^="wedo-big-icon-"],
+.main-nav>.active>a>[class*=" wedo-big-icon-"],
+.btn-group .dropdown-menu>li>a:hover>[class^="wedo-big-icon-"],
+.btn-group .dropdown-menu>li>a:hover>[class*=" wedo-big-icon-"],
+.btn-group .dropdown-menu>.active>a>[class^="wedo-big-icon-"],
+.btn-group .dropdown-menu>.active>a>[class*=" wedo-big-icon-"] {
+    background-image: url("../images/icons-white-24.png");
+}
+
+.wedo-big-icon-grey {
+    background-image: url("../images/icons-grey-24.png");
+}
+
+.wedo-big-icon-nameplate-alt {
+    background-position: -0px -0px;
+}
+
+.wedo-big-icon-nameplate {
+    background-position: -48px -0px;
+}
+
+.wedo-big-icon-home {
+    background-position: -96px -0px;
+}
+
+.wedo-big-icon-users-add {
+    background-position: -144px -0px;
+}
+
+.wedo-big-icon-users {
+    background-position: -192px -0px;
+}
+
+.wedo-big-icon-group {
+    background-position: -240px -0px;
+}
+
+.wedo-big-icon-user-male {
+    background-position: -288px -0px;
+}
+
+.wedo-big-icon-user-female {
+    background-position: -336px -0px;
+}
+
+.wedo-big-icon-user-add {
+    background-position: -384px -0px;
+}
+
+.wedo-big-icon-user-remove {
+    background-position: -432px -0px;
+}
+
+.wedo-big-icon-picture {
+    background-position: -480px -0px;
+}
+
+.wedo-big-icon-film {
+    background-position: -528px -0px;
+}
+
+.wedo-big-icon-print {
+    background-position: -576px -0px;
+}
+
+.wedo-big-icon-cogwheels {
+    background-position: -0px -48px;
+}
+
+.wedo-big-icon-cogwheel {
+    background-position: -48px -48px;
+}
+
+.wedo-big-icon-settings {
+    background-position: -96px -48px;
+}
+
+.wedo-big-icon-cut {
+    background-position: -144px -48px;
+}
+
+.wedo-big-icon-pencil {
+    background-position: -192px -48px;
+}
+
+.wedo-big-icon-keys {
+    background-position: -240px -48px;
+}
+
+.wedo-big-icon-trash {
+    background-position: -288px -48px;
+}
+
+.wedo-big-icon-link {
+    background-position: -336px -48px;
+}
+
+.wedo-big-icon-tag {
+    background-position: -384px -48px;
+}
+
+.wedo-big-icon-tags {
+    background-position: -432px -48px;
+}
+
+.wedo-big-icon-search {
+    background-position: -480px -48px;
+}
+
+.wedo-big-icon-zoom-in {
+    background-position: -528px -48px;
+}
+
+.wedo-big-icon-zoom-out {
+    background-position: -576px -48px;
+}
+
+.wedo-big-icon-calculator {
+    background-position: -0px -96px;
+}
+
+.wedo-big-icon-clipboard {
+    background-position: -48px -96px;
+}
+
+.wedo-big-icon-calendar {
+    background-position: -96px -96px;
+}
+
+.wedo-big-icon-calendar-alt {
+    background-position: -144px -96px;
+}
+
+.wedo-big-icon-table {
+    background-position: -192px -96px;
+}
+
+.wedo-big-icon-book-open {
+    background-position: -240px -96px;
+}
+
+.wedo-big-icon-book {
+    background-position: -288px -96px;
+}
+
+.wedo-big-icon-book-check {
+    background-position: -336px -96px;
+}
+
+.wedo-big-icon-book-address {
+    background-position: -384px -96px;
+}
+
+.wedo-big-icon-stack {
+    background-position: -432px -96px;
+}
+
+.wedo-big-icon-stack-alt {
+    background-position: -480px -96px;
+}
+
+.wedo-big-icon-star {
+    background-position: -528px -96px;
+}
+
+.wedo-big-icon-plain {
+    background-position: -576px -96px;
+}
+
+.wedo-big-icon-import {
+    background-position: -0px -144px;
+}
+
+.wedo-big-icon-export {
+    background-position: -48px -144px;
+}
+
+.wedo-big-icon-file {
+    background-position: -96px -144px;
+}
+
+.wedo-big-icon-files {
+    background-position: -144px -144px;
+}
+
+.wedo-big-icon-coins {
+    background-position: -192px -144px;
+}
+
+.wedo-big-icon-visible {
+    background-position: -240px -144px;
+}
+
+.wedo-big-icon-invisible {
+    background-position: -288px -144px;
+}
+
+.wedo-big-icon-sort {
+    background-position: -336px -144px;
+}
+
+.wedo-big-icon-sort-desc {
+    background-position: -384px -144px;
+}
+
+.wedo-big-icon-sort-asc {
+    background-position: -432px -144px;
+}
+
+.wedo-big-icon-locked {
+    background-position: -480px -144px;
+}
+
+.wedo-big-icon-unlocked {
+    background-position: -528px -144px;
+}
+
+.wedo-big-icon-flag {
+    background-position: -576px -144px;
+}
+
+.wedo-big-icon-table-alt {
+    background-position: -0px -192px;
+}
+
+.wedo-big-icon-line-chart {
+    background-position: -48px -192px;
+}
+
+.wedo-big-icon-bar-chart {
+    background-position: -96px -192px;
+}
+
+.wedo-big-icon-pie-chart {
+    background-position: -144px -192px;
+}
+
+.wedo-big-icon-ekg {
+    background-position: -192px -192px;
+}
+
+.wedo-big-icon-alarm {
+    background-position: -240px -192px;
+}
+
+.wedo-big-icon-clock {
+    background-position: -288px -192px;
+}
+
+.wedo-big-icon-crono {
+    background-position: -336px -192px;
+}
+
+.wedo-big-icon-clock-alt {
+    background-position: -384px -192px;
+}
+
+.wedo-big-icon-net {
+    background-position: -432px -192px;
+}
+
+.wedo-big-icon-clip {
+    background-position: -480px -192px;
+}
+
+.wedo-big-icon-off {
+    background-position: -528px -192px;
+}
+
+.wedo-big-icon-bulb {
+    background-position: -576px -192px;
+}
+
+.wedo-big-icon-wifi {
+    background-position: -0px -240px;
+}
+
+.wedo-big-icon-warning {
+    background-position: -48px -240px;
+}
+
+.wedo-big-icon-signal-bars {
+    background-position: -96px -240px;
+}
+
+.wedo-big-icon-globe {
+    background-position: -144px -240px;
+}
+
+.wedo-big-icon-browser {
+    background-position: -192px -240px;
+}
+
+.wedo-big-icon-compass {
+    background-position: -240px -240px;
+}
+
+.wedo-big-icon-retweet {
+    background-position: -288px -240px;
+}
+
+.wedo-big-icon-refresh {
+    background-position: -336px -240px;
+}
+
+.wedo-big-icon-rotation-lock {
+    background-position: -384px -240px;
+}
+
+.wedo-big-icon-random {
+    background-position: -432px -240px;
+}
+
+.wedo-big-icon-heat {
+    background-position: -480px -240px;
+}
+
+.wedo-big-icon-repeat {
+    background-position: -528px -240px;
+}
+
+.wedo-big-icon-repeat-alt {
+    background-position: -576px -240px;
+}
+
+.wedo-big-icon-display {
+    background-position: -0px -288px;
+}
+
+.wedo-big-icon-text-font {
+    background-position: -48px -288px;
+}
+
+.wedo-big-icon-text-italic {
+    background-position: -96px -288px;
+}
+
+.wedo-big-icon-text-bold {
+    background-position: -144px -288px;
+}
+
+.wedo-big-icon-text-underline {
+    background-position: -192px -288px;
+}
+
+.wedo-big-icon-text-strike {
+    background-position: -240px -288px;
+}
+
+.wedo-big-icon-text-height {
+    background-position: -288px -288px;
+}
+
+.wedo-big-icon-text-width {
+    background-position: -336px -288px;
+}
+
+.wedo-big-icon-text-resize {
+    background-position: -384px -288px;
+}
+
+.wedo-big-icon-left-indent {
+    background-position: -432px -288px;
+}
+
+.wedo-big-icon-right-indent {
+    background-position: -480px -288px;
+}
+
+.wedo-big-icon-embed {
+    background-position: -528px -288px;
+}
+
+.wedo-big-icon-embed-close {
+    background-position: -576px -288px;
+}
+
+.wedo-big-icon-align-left {
+    background-position: -0px -336px;
+}
+
+.wedo-big-icon-align-center {
+    background-position: -48px -336px;
+}
+
+.wedo-big-icon-align-right {
+    background-position: -96px -336px;
+}
+
+.wedo-big-icon-justify {
+    background-position: -144px -336px;
+}
+
+.wedo-big-icon-list {
+    background-position: -192px -336px;
+}
+
+.wedo-big-icon-text-smaller {
+    background-position: -240px -336px;
+}
+
+.wedo-big-icon-text-bigger {
+    background-position: -288px -336px;
+}
+
+.wedo-big-icon-adjust {
+    background-position: -336px -336px;
+}
+
+.wedo-big-icon-message {
+    background-position: -384px -336px;
+}
+
+.wedo-big-icon-message-full {
+    background-position: -432px -336px;
+}
+
+.wedo-big-icon-message-empty {
+    background-position: -480px -336px;
+}
+
+.wedo-big-icon-message-in {
+    background-position: -528px -336px;
+}
+
+.wedo-big-icon-message-out {
+    background-position: -576px -336px;
+}
+
+.wedo-big-icon-message-plus {
+    background-position: -0px -384px;
+}
+
+.wedo-big-icon-message-minus {
+    background-position: -48px -384px;
+}
+
+.wedo-big-icon-message-ban {
+    background-position: -96px -384px;
+}
+
+.wedo-big-icon-message-flag {
+    background-position: -144px -384px;
+}
+
+.wedo-big-icon-message-lock {
+    background-position: -192px -384px;
+}
+
+.wedo-big-icon-message-new {
+    background-position: -240px -384px;
+}
+
+.wedo-big-icon-inbox {
+    background-position: -288px -384px;
+}
+
+.wedo-big-icon-inbox-plus {
+    background-position: -336px -384px;
+}
+
+.wedo-big-icon-inbox-minus {
+    background-position: -384px -384px;
+}
+
+.wedo-big-icon-inbox-lock {
+    background-position: -432px -384px;
+}
+
+.wedo-big-icon-inbox-in {
+    background-position: -480px -384px;
+}
+
+.wedo-big-icon-inbox-out {
+    background-position: -528px -384px;
+}
+
+.wedo-big-icon-phone {
+    background-position: -576px -384px;
+}
+
+.wedo-big-icon-screen-lock {
+    background-position: -0px -432px;
+}
+
+.wedo-big-icon-screen-new {
+    background-position: -48px -432px;
+}
+
+.wedo-big-icon-screen-ellipsis {
+    background-position: -96px -432px;
+}
+
+.wedo-big-icon-folder {
+    background-position: -144px -432px;
+}
+
+.wedo-big-icon-folder-open {
+    background-position: -192px -432px;
+}
+
+.wedo-big-icon-folder-plus {
+    background-position: -240px -432px;
+}
+
+.wedo-big-icon-folder-minus {
+    background-position: -288px -432px;
+}
+
+.wedo-big-icon-folder-lock {
+    background-position: -336px -432px;
+}
+
+.wedo-big-icon-folder-flag {
+    background-position: -384px -432px;
+}
+
+.wedo-big-icon-folder-new {
+    background-position: -432px -432px;
+}
+
+.wedo-big-icon-zip {
+    background-position: -480px -432px;
+}
+
+.wedo-big-icon-download {
+    background-position: -528px -432px;
+}
+
+.wedo-big-icon-ellipsis {
+    background-position: -576px -432px;
+}
+
+.wedo-big-icon-step-backward {
+    background-position: -0px -480px;
+}
+
+.wedo-big-icon-fast-backward {
+    background-position: -48px -480px;
+}
+
+.wedo-big-icon-rewind {
+    background-position: -96px -480px;
+}
+
+.wedo-big-icon-play {
+    background-position: -144px -480px;
+}
+
+.wedo-big-icon-forward {
+    background-position: -192px -480px;
+}
+
+.wedo-big-icon-fast-forward {
+    background-position: -240px -480px;
+}
+
+.wedo-big-icon-step-forward {
+    background-position: -288px -480px;
+}
+
+.wedo-big-icon-plus {
+    background-position: -336px -480px;
+}
+
+.wedo-big-icon-minus {
+    background-position: -384px -480px;
+}
+
+.wedo-big-icon-remove {
+    background-position: -432px -480px;
+}
+
+.wedo-big-icon-check {
+    background-position: -480px -480px;
+}
+
+.wedo-big-icon-question {
+    background-position: -528px -480px;
+}
+
+.wedo-big-icon-info {
+    background-position: -576px -480px;
+}
+
+.wedo-big-icon-exclamation {
+    background-position: -0px -528px;
+}
+
+.wedo-big-icon-remove-sign {
+    background-position: -48px -528px;
+}
+
+.wedo-big-icon-check-sign {
+    background-position: -96px -528px;
+}
+
+.wedo-big-icon-block-sign {
+    background-position: -144px -528px;
+}
+
+.wedo-big-icon-play-sign {
+    background-position: -192px -528px;
+}
+
+.wedo-big-icon-down-sign {
+    background-position: -240px -528px;
+}
+
+.wedo-big-icon-up-sign {
+    background-position: -288px -528px;
+}
+
+.wedo-big-icon-left-arrow-sign {
+    background-position: -336px -528px;
+}
+
+.wedo-big-icon-right-arrow-sign {
+    background-position: -384px -528px;
+}
+
+.wedo-big-icon-up-arrow-sign {
+    background-position: -432px -528px;
+}
+
+.wedo-big-icon-down-arrow-sign {
+    background-position: -480px -528px;
+}
+
+.wedo-big-icon-minimize {
+    background-position: -528px -528px;
+}
+
+.wedo-big-icon-maximize {
+    background-position: -576px -528px;
+}
+
+.wedo-big-icon-left-arrow {
+    background-position: -0px -576px;
+}
+
+.wedo-big-icon-right-arrow {
+    background-position: -48px -576px;
+}
+
+.wedo-big-icon-up-arrow {
+    background-position: -96px -576px;
+}
+
+.wedo-big-icon-down-arrow {
+    background-position: -144px -576px;
+}
+
+.wedo-big-icon-fullscreen {
+    background-position: -192px -576px;
+}
+
+.wedo-big-icon-move-cursor {
+    background-position: -240px -576px;
+}
+
+.wedo-big-icon-undo {
+    background-position: -288px -576px;
+}
+
+.wedo-big-icon-redo {
+    background-position: -336px -576px;
+}
+
+.wedo-big-icon-right-arrow-thin {
+    background-position: -384px -576px;
+}
+
+.wedo-big-icon-left-arrow-thin {
+    background-position: -432px -576px;
+}
+
+.wedo-big-icon-ok-bold {
+    background-position: -480px -576px;
+}
+
+.wedo-big-icon-remove-bold {
+    background-position: -528px -576px;
+}
+
+.wedo-big-icon-retweet-vertical {
+    background-position: -576px -576px;
+}
+
+.wedo-big-icon-thumbs-ok {
+    background-position: -0px -624px;
+}
+
+.wedo-big-icon-thumbs-not-ok {
+    background-position: -48px -624px;
+}
+
+.wedo-big-icon-thumbs-right {
+    background-position: -96px -624px;
+}
+
+.wedo-big-icon-thumbs-left {
+    background-position: -144px -624px;
+}
+
+.wedo-big-icon-thumbs-up {
+    background-position: -192px -624px;
+}
+
+.wedo-big-icon-thumbs-down {
+    background-position: -240px -624px;
+}
+
+.wedo-big-icon-big-thumbnails {
+    background-position: -288px -624px;
+}
+
+.wedo-big-icon-thumbnails {
+    background-position: -336px -624px;
+}
+
+.wedo-big-icon-thumbnails-lines {
+    background-position: -384px -624px;
+}
+
+.wedo-big-icon-lines {
+    background-position: -432px -624px;
+}
+
+.wedo-big-icon-euro {
+    background-position: -480px -624px;
+}
+
+.wedo-big-icon-dollar {
+    background-position: -528px -624px;
+}
+
+.wedo-big-icon-pound {
+    background-position: -576px -624px;
+}
+
+.wedo-big-icon-filter {
+    background-position: -0px -672px;
+}
+
+.wedo-big-icon-share {
+    background-position: -48px -672px;
+}
+
+.wedo-big-icon-marker {
+    background-position: -96px -672px;
+}
+
+.wedo-big-icon-pin {
+    background-position: -144px -672px;
+}
+
+.wedo-big-icon-flag-alt {
+    background-position: -192px -672px;
+}
+
+.wedo-big-icon-keyboard {
+    background-position: -240px -672px;
+}
+
+.wedo-big-icon-conversation {
+    background-position: -288px -672px;
+}
+
+.wedo-big-icon-chat {
+    background-position: -336px -672px;
+}
+
+.wedo-big-icon-chat-alt {
+    background-position: -384px -672px;
+}
+
+.wedo-big-icon-new {
+    background-position: -432px -672px;
+}
+
+.wedo-big-icon-divide {
+    background-position: -480px -672px;
+}
+
+.wedo-big-icon-bell {
+    background-position: -528px -672px;
+}
+
+.wedo-big-icon-badge {
+    background-position: -576px -672px;
+}
+
+.wedo-big-icon-qrcode {
+    background-position: -0px -720px;
+}
+
+.wedo-big-icon-gauge {
+    background-position: -48px -720px;
+}
+
+.wedo-big-icon-new-window {
+    background-position: -96px -720px;
+}
+
+.wedo-big-icon-edit-window {
+    background-position: -144px -720px;
+}
+
+.wedo-big-icon-check-window {
+    background-position: -192px -720px;
+}
+
+.wedo-big-icon-maximize-window {
+    background-position: -240px -720px;
+}
+
+.wedo-big-icon-minimize-window {
+    background-position: -288px -720px;
+}
+
+.wedo-big-icon-tree-plus-large {
+    background-position: -336px -720px;
+}
+
+.wedo-big-icon-tree-minus-large {
+    background-position: -384px -720px;
+}
+
+.wedo-big-icon-tree-new {
+    background-position: -432px -720px;
+}
+
+.wedo-big-icon-tree-new-expression {
+    background-position: -480px -720px;
+}
+
+.wedo-big-icon-tree-plus-stack {
+    background-position: -528px -720px;
+}
+
+.wedo-big-icon-tree-minus-stack {
+    background-position: -576px -720px;
+}
+
+.wedo-big-icon-tree-stack {
+    background-position: -0px -768px;
+}
+
+.wedo-big-icon-tree-merge {
+    background-position: -48px -768px;
+}
+
+.wedo-big-icon-tree-move-all {
+    background-position: -96px -768px;
+}
+
+.wedo-big-icon-tree-expression-edit {
+    background-position: -144px -768px;
+}
+
+.wedo-big-icon-tree-functions {
+    background-position: -192px -768px;
+}
+
+.wedo-big-icon-tree-items {
+    background-position: -240px -768px;
+}
+
+.wedo-big-icon-tree-fields {
+    background-position: -288px -768px;
+}
+
+.wedo-big-icon-tree-arithmetic {
+    background-position: -336px -768px;
+}
+
+.wedo-big-icon-tree-calendar {
+    background-position: -384px -768px;
+}
+
+.wedo-big-icon-tree-function {
+    background-position: -432px -768px;
+}
+
+.wedo-big-icon-tree-text {
+    background-position: -480px -768px;
+}
+
+.wedo-big-icon-tree-function-alt {
+    background-position: -528px -768px;
+}
+
+.wedo-big-icon-tree-text-alt {
+    background-position: -576px -768px;
+}
+
+.wedo-big-icon-expression-refresh {
+    background-position: -0px -816px;
+}
+
+.wedo-big-icon-expression-boxes {
+    background-position: -48px -816px;
+}
+
+.wedo-big-icon-expression-charts {
+    background-position: -96px -816px;
+}
+
+.wedo-big-icon-expression-workflow {
+    background-position: -144px -816px;
+}
+
+.wedo-big-icon-expression-items {
+    background-position: -192px -816px;
+}
+
+.wedo-big-icon-expression-sliders {
+    background-position: -240px -816px;
+}
+
+.wedo-big-icon-expression-bars {
+    background-position: -288px -816px;
+}
+
+.wedo-big-icon-expression-rulers {
+    background-position: -336px -816px;
+}
+
+.wedo-big-icon-expression-statistics {
+    background-position: -384px -816px;
+}
+
+.wedo-big-icon-expression-board {
+    background-position: -432px -816px;
+}
+
+.wedo-big-icon-expression-empty {
+    background-position: -480px -816px;
+}
+
+.wedo-big-icon-expression-connect {
+    background-position: -528px -816px;
+}
+
+.wedo-big-icon-expression-numbers {
+    background-position: -576px -816px;
+}
+
+.wedo-big-icon-expression-window {
+    background-position: -0px -864px;
+}
+
+.wedo-big-icon-expression-window-plus {
+    background-position: -48px -864px;
+}
+
+.wedo-big-icon-expression-window-remove {
+    background-position: -96px -864px;
+}
+
+.wedo-big-icon-expression-window-warning {
+    background-position: -144px -864px;
+}
+
+.wedo-big-icon-expression-window-play {
+    background-position: -192px -864px;
+}
+
+.wedo-big-icon-expression-window-elipsis {
+    background-position: -240px -864px;
+}
+
+.wedo-big-icon-expression-window-block {
+    background-position: -288px -864px;
+}
+
+.wedo-big-icon-expression-window-new {
+    background-position: -336px -864px;
+}
+
+.wedo-big-icon-expression-window-edit {
+    background-position: -384px -864px;
+}
+
+.wedo-big-icon-expression-life {
+    background-position: -432px -864px;
+}
+
+.wedo-big-icon-expression-valid-export {
+    background-position: -480px -864px;
+}
+
+.wedo-big-icon-expression-new-export {
+    background-position: -528px -864px;
+}
+
+.wedo-big-icon-expression-law {
+    background-position: -576px -864px;
+}
+
+.wedo-big-icon-expression-calendar {
+    background-position: -0px -912px;
+}
+
+.wedo-big-icon-expression-happy {
+    background-position: -48px -912px;
+}
+
+.wedo-big-icon-expression-down {
+    background-position: -96px -912px;
+}
+
+.wedo-big-icon-expression-up {
+    background-position: -144px -912px;
+}
+
+.wedo-big-icon-expression-right-up {
+    background-position: -192px -912px;
+}
+
+.wedo-big-icon-expression-right-down {
+    background-position: -240px -912px;
+}
+
+.wedo-big-icon-expression-plus {
+    background-position: -288px -912px;
+}
+
+.wedo-big-icon-expression-minus {
+    background-position: -336px -912px;
+}
+
+.wedo-big-icon-expression-source-plus {
+    background-position: -384px -912px;
+}
+
+.wedo-big-icon-expression-source-minus {
+    background-position: -432px -912px;
+}
+
+.wedo-big-icon-expression-source-lock {
+    background-position: -480px -912px;
+}
+
+.wedo-big-icon-expression-source-block {
+    background-position: -528px -912px;
+}
+
+.wedo-big-icon-expression-shield {
+    background-position: -576px -912px;
+}
+
+.wedo-big-icon-move-right {
+    background-position: -0px -960px;
+}
+
+.wedo-big-icon-move-left {
+    background-position: -48px -960px;
+}
+
+.wedo-big-icon-move-all-right {
+    background-position: -96px -960px;
+}
+
+.wedo-big-icon-move-all-left {
+    background-position: -144px -960px;
+}
+
+.wedo-big-icon-datalist {
+    background-position: -192px -960px;
+}
+
+.wedo-big-icon-tree-plus {
+    background-position: -240px -960px;
+}
+
+.wedo-big-icon-tree-minus {
+    background-position: -288px -960px;
+}
+
+.wedo-big-icon-expression-left-up {
+    background-position: -336px -960px;
+}
+
+.wedo-big-icon-expression-left-down {
+    background-position: -384px -960px;
+}
+
+.wedo-big-icon-left-up-arrow {
+    background-position: -432px -960px;
+}
+
+.wedo-big-icon-left-down-arrow {
+    background-position: -480px -960px;
+}
+
+.wedo-big-icon-right-up-arrow {
+    background-position: -528px -960px;
+}
+
+.wedo-big-icon-right-down-arrow {
+    background-position: -576px -960px;
+}
+
+.wedo-big-icon-kpi-right-down {
+    background-position: -0px -1008px;
+}
+
+.wedo-big-icon-kpi-left-down {
+    background-position: -48px -1008px;
+}
+
+.wedo-big-icon-kpi-right-up {
+    background-position: -96px -1008px;
+}
+
+.wedo-big-icon-kpi-left-up {
+    background-position: -144px -1008px;
+}
+
+.wedo-big-icon-look-and-feel {
+    background-position: -192px -1008px;
+}
+
+.wedo-big-icon-save {
+    background-position: -240px -1008px;
+}
+
+.wedo-big-icon-widget-configuration {
+    background-position: -288px -1008px;
+}
+
+.wedo-big-icon-behavior-mapping {
+    background-position: -336px -1008px;
+}
+
+.wedo-big-icon-layout-management {
+    background-position: -384px -1008px;
+}
+
+.wedo-big-icon-new-section-template {
+    background-position: -432px -1008px;
+}
+
+.wedo-big-icon-section-navigation-widget {
+    background-position: -480px -1008px;
+}
+
+.wedo-big-icon-title-bar-widget {
+    background-position: -528px -1008px;
+}
+
+.wedo-big-icon-restrictions-widget {
+    background-position: -576px -1008px;
+}
+
+.wedo-big-icon-filter-bar-widget {
+    background-position: -0px -1056px;
+}
+
+.wedo-big-icon-history {
+    background-position: -48px -1056px;
+}
+
+.wedo-big-icon-properties {
+    background-position: -96px -1056px;
+}
+
+.wedo-big-icon-initialization {
+    background-position: -144px -1056px;
+}
+
+.wedo-big-icon-actions-management {
+    background-position: -192px -1056px;
+}
+
+.wedo-big-icon-actions-control {
+    background-position: -240px -1056px;
+}
+
+.wedo-big-icon-actions-monitoring {
+    background-position: -288px -1056px;
+}
+
+.wedo-big-icon-actions-auditing {
+    background-position: -336px -1056px;
+}
+
+.wedo-big-icon-1d-bar-code {
+    background-position: -384px -1056px;
+}
+
+.wedo-big-icon-modal-manager {
+    background-position: -432px -1056px;
+}
+
+.wedo-big-icon-blacklist-manager {
+    background-position: -480px -1056px;
+}
+
+.wedo-big-icon-multiple-activation {
+    background-position: -528px -1056px;
+}
+
+.wedo-big-icon-vat-validation {
+    background-position: -576px -1056px;
+}
+
+.wedo-big-icon-entity-exemption {
+    background-position: -0px -1104px;
+}
+
+.wedo-big-icon-entity-exemption-manager {
+    background-position: -48px -1104px;
+}
+
+.wedo-big-icon-entity-exemption-rule-audit {
+    background-position: -96px -1104px;
+}
+
+.wedo-big-icon-global-entity-exemption-fields {
+    background-position: -144px -1104px;
+}
+
+.wedo-big-icon-scoring-management {
+    background-position: -192px -1104px;
+}
+
+.wedo-big-icon-scoring-normalizer {
+    background-position: -240px -1104px;
+}
+
+.wedo-big-icon-hotlist {
+    background-position: -288px -1104px;
+}
+
+.wedo-big-icon-hotlist-configure {
+    background-position: -336px -1104px;
+}
+
+.wedo-big-icon-hotlist-approve {
+    background-position: -384px -1104px;
+}
+
+.wedo-big-icon-auditing {
+    background-position: -432px -1104px;
+}
+
+.wedo-big-icon-auditing-rules {
+    background-position: -480px -1104px;
+}
+
+.wedo-big-icon-profile-management {
+    background-position: -528px -1104px;
+}
+
+.wedo-big-icon-over-threshold {
+    background-position: -576px -1104px;
+}
+
+.wedo-big-icon-link-analysis-export {
+    background-position: -0px -1152px;
+}
+
+.wedo-big-icon-rule-activate {
+    background-position: -48px -1152px;
+}
+
+.wedo-big-icon-rule-deactivate {
+    background-position: -96px -1152px;
+}
+
+.wedo-big-icon-rule-approve {
+    background-position: -144px -1152px;
+}
+
+.wedo-big-icon-rule-reject {
+    background-position: -192px -1152px;
+}
+
+.wedo-big-icon-rule-offline {
+    background-position: -240px -1152px;
+}
+
+.wedo-big-icon-rule-submit {
+    background-position: -288px -1152px;
+}
+
+.wedo-big-icon-rule-unsubmit {
+    background-position: -336px -1152px;
+}
+
+.wedo-big-icon-rule-add {
+    background-position: -384px -1152px;
+}
+
+.wedo-big-icon-rule-export-list {
+    background-position: -432px -1152px;
+}
+
+.wedo-big-icon-rule-view {
+    background-position: -480px -1152px;
+}
+
+.wedo-big-icon-rule-edit {
+    background-position: -528px -1152px;
+}
+
+.wedo-big-icon-rule-history {
+    background-position: -576px -1152px;
+}
+
+.wedo-big-icon-rule-new {
+    background-position: -0px -1200px;
+}
+
+.wedo-big-icon-rule-action-log {
+    background-position: -48px -1200px;
+}
+
+.wedo-big-icon-rule-executions {
+    background-position: -96px -1200px;
+}
+
+.wedo-big-icon-fraud-cases-type {
+    background-position: -144px -1200px;
+}
+
+.wedo-big-icon-new-cases-report {
+    background-position: -192px -1200px;
+}
+
+.wedo-big-icon-idle-cases-report {
+    background-position: -240px -1200px;
+}
+
+.wedo-big-icon-resolved-cases-type {
+    background-position: -288px -1200px;
+}
+
+.wedo-big-icon-resolved-cases-correlation {
+    background-position: -336px -1200px;
+}
+
+.wedo-big-icon-solved-cases-detailed {
+    background-position: -384px -1200px;
+}
+
+.wedo-big-icon-alarm-type-statistics {
+    background-position: -432px -1200px;
+}
+
+.wedo-big-icon-unused-rules {
+    background-position: -480px -1200px;
+}
+
+.wedo-big-icon-group-analysis {
+    background-position: -528px -1200px;
+}
+
+.wedo-big-icon-average-gap-time {
+    background-position: -576px -1200px;
+}
+
+.wedo-big-icon-average-detection-time {
+    background-position: -0px -1248px;
+}
+
+.wedo-big-icon-detection-source {
+    background-position: -48px -1248px;
+}
+
+.wedo-big-icon-archived-fraudulent-cases {
+    background-position: -96px -1248px;
+}
+
+.wedo-big-icon-fraud-cases-correlation {
+    background-position: -144px -1248px;
+}
+
+.wedo-big-icon-fraud-cases-detection {
+    background-position: -192px -1248px;
+}
+
+.wedo-big-icon-fraud-alerts-detection {
+    background-position: -240px -1248px;
+}
+
+.wedo-big-icon-false-positive-cases {
+    background-position: -288px -1248px;
+}
+
+.wedo-big-icon-closed-cases-type {
+    background-position: -336px -1248px;
+}
+
+.wedo-big-icon-detection-usage {
+    background-position: -384px -1248px;
+}
+
+.wedo-big-icon-correlation-usage {
+    background-position: -432px -1248px;
+}
+
+.wedo-big-icon-cases-resolution {
+    background-position: -480px -1248px;
+}
+
+.wedo-big-icon-unused-correlation {
+    background-position: -528px -1248px;
+}
+
+.wedo-big-icon-unused-detection {
+    background-position: -576px -1248px;
+}
+
+.wedo-big-icon-fraud-trend {
+    background-position: -0px -1296px;
+}
+
+.wedo-big-icon-connections-product {
+    background-position: -48px -1296px;
+}
+
+.wedo-big-icon-detection-time {
+    background-position: -96px -1296px;
+}
+
+.wedo-big-icon-speed-resolving {
+    background-position: -144px -1296px;
+}
+
+.wedo-big-icon-rule-delete {
+    background-position: -192px -1296px;
+}
+
+.wedo-big-icon-excel-export {
+    background-position: -240px -1296px;
+}
+
+.wedo-big-icon-zoom-reset {
+    background-position: -288px -1296px;
+}
+
+.wedo-big-icon-disable-filter {
+    background-position: -336px -1296px;
+}
+
+.wedo-big-icon-chart-exclamation {
+    background-position: -384px -1296px;
+}
+
+.wedo-big-icon-user-preferences {
+    background-position: -432px -1296px;
+}
+
+.wedo-big-icon-area-chart {
+    background-position: -480px -1296px;
+}
+
+.wedo-big-icon-scatter-chart {
+    background-position: -528px -1296px;
+}
+
+.wedo-big-icon-spline-chart {
+    background-position: -576px -1296px;
+}
+
+.wedo-big-icon-area-spline-chart {
+    background-position: -0px -1344px;
+}
+
+.wedo-big-icon-number-sign {
+    background-position: -48px -1344px;
+}
+
+.wedo-big-icon-summatory {
+    background-position: -96px -1344px;
+}
+
+.wedo-big-icon-average {
+    background-position: -144px -1344px;
+}
+
+.wedo-big-icon-maxium {
+    background-position: -192px -1344px;
+}
+
+.wedo-big-icon-minium {
+    background-position: -240px -1344px;
+}
+
+.wedo-big-icon-list-aggregation {
+    background-position: -288px -1344px;
+}
+
+.wedo-big-icon-aggregation {
+    background-position: -336px -1344px;
+}
+
+.wedo-big-icon-text {
+    background-position: -384px -1344px;
+}
+
+.wedo-big-icon-numeric {
+    background-position: -432px -1344px;
+}
+
+.wedo-big-icon-boolean {
+    background-position: -480px -1344px;
+}
+
+.wedo-big-icon-over-threshold-entity {
+    background-position: -528px -1344px;
+}
+
+.wedo-big-icon-detection-engines-scoring {
+    background-position: -576px -1344px;
+}
+
+.wedo-big-icon-detection-engines-scoring-audit {
+    background-position: -0px -1392px;
+}
+
+.wedo-big-icon-correlation-engines-scoring {
+    background-position: -48px -1392px;
+}
+
+.wedo-big-icon-correlation-engines-scoring-audit {
+    background-position: -96px -1392px;
+}
+
+.wedo-big-icon-score-models {
+    background-position: -144px -1392px;
+}
+
+.wedo-big-icon-score-models-audit {
+    background-position: -192px -1392px;
+}
+
+.wedo-big-icon-gadget-user-preferences {
+    background-position: -240px -1392px;
+}
+
+.wedo-big-icon-align-top {
+    background-position: -288px -1392px;
+}
+
+.wedo-big-icon-align-middle {
+    background-position: -336px -1392px;
+}
+
+.wedo-big-icon-align-bottom {
+    background-position: -384px -1392px;
+}
+
+.wedo-big-icon-tracing {
+    background-position: -432px -1392px;
+}
+
+.wedo-big-icon-check-out {
+    background-position: -480px -1392px;
+}
+
+.wedo-big-icon-hierarchical {
+    background-position: -528px -1392px;
+}
+
+.wedo-big-icon-datasource {
+    background-position: -576px -1392px;
+}
+
+.wedo-big-icon-context {
+    background-position: -0px -1440px;
+}
+
+.wedo-big-icon-entity-group {
+    background-position: -48px -1440px;
+}
+
+.wedo-big-icon-entity {
+    background-position: -96px -1440px;
+}
+
+.wedo-big-icon-logical_field {
+    background-position: -144px -1440px;
+}
+
+.wedo-big-icon-logical_type {
+    background-position: -192px -1440px;
+}
+
+.wedo-big-icon-antenna {
+    background-position: -240px -1440px;
+}
+
+.wedo-big-icon-tree-collapsed {
+    background-position: -288px -1440px;
+}
+
+.wedo-big-icon-tree-expanded {
+    background-position: -336px -1440px;
+}
+
+.wedo-big-icon-home-lock {
+    background-position: -384px -1440px;
+}
+
+.wedo-big-icon-home-lock-two {
+    background-position: -432px -1440px;
+}
+
+.wedo-big-icon-vault {
+    background-position: -480px -1440px;
+}
+
+.wedo-big-icon-vault-two {
+    background-position: -528px -1440px;
+}
+
+.wedo-big-icon-vault-three {
+    background-position: -576px -1440px;
+}
+
+.wedo-big-icon-vault-four {
+    background-position: -0px -1488px;
+}
+
+.wedo-big-icon-vault-five {
+    background-position: -48px -1488px;
+}
+
+.wedo-big-icon-add-filter-restrictions {
+    background-position: -96px -1488px;
+}
+
+.wedo-big-icon-add-filter-white-list {
+    background-position: -144px -1488px;
+}
+
+.wedo-big-icon-add-filter-black-list {
+    background-position: -192px -1488px;
+}
+
+.wedo-big-icon-not {
+    background-position: -240px -1488px;
+}
